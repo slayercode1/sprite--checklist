@@ -1,0 +1,2458 @@
+[
+  {
+    "id": "138",
+    "slug": "john-wick-sprite",
+    "name": "John Wick",
+    "href": "/sprites/138-john-wick-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_Reload_FillerGrunt_icon_L.webp",
+    "description": "Knocking players reveals others nearby. Mark duration increases at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "John Wick",
+    "sourceUrl": "https://fortnite.gg/sprites/138-john-wick-sprite"
+  },
+  {
+    "id": "139",
+    "slug": "batman-sprite",
+    "name": "Batman",
+    "href": "/sprites/139-batman-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 1.44,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_FossilMeal_Default_L.webp",
+    "description": "Grants the ability to launch in the air and deploy the Bat Cape!",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "1.44%"
+      }
+    ],
+    "spriteType": "Batman",
+    "sourceUrl": "https://fortnite.gg/sprites/139-batman-sprite"
+  },
+  {
+    "id": "146",
+    "slug": "cube-batman-sprite",
+    "name": "Cube Batman",
+    "href": "/sprites/146-cube-batman-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0.02,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_FossilMeal_Cube_L.webp",
+    "description": "Grants the ability to launch in the air and deploy the Bat Cape!",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.02%"
+      }
+    ],
+    "spriteType": "Batman",
+    "sourceUrl": "https://fortnite.gg/sprites/146-cube-batman-sprite"
+  },
+  {
+    "id": "140",
+    "slug": "gold-batman-sprite",
+    "name": "Gold Batman",
+    "href": "/sprites/140-gold-batman-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.17,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_FossilMeal_Gold_L.webp",
+    "description": "Grants the ability to launch in the air and deploy the Bat Cape!",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.17%"
+      }
+    ],
+    "spriteType": "Batman",
+    "sourceUrl": "https://fortnite.gg/sprites/140-gold-batman-sprite"
+  },
+  {
+    "id": "141",
+    "slug": "gummy-batman-sprite",
+    "name": "Gummy Batman",
+    "href": "/sprites/141-gummy-batman-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.1,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_FossilMeal_Candy_L.webp",
+    "description": "Grants the ability to launch in the air and deploy the Bat Cape!",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.1%"
+      }
+    ],
+    "spriteType": "Batman",
+    "sourceUrl": "https://fortnite.gg/sprites/141-gummy-batman-sprite"
+  },
+  {
+    "id": "142",
+    "slug": "galaxy-batman-sprite",
+    "name": "Galaxy Batman",
+    "href": "/sprites/142-galaxy-batman-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.07,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_FossilMeal_Galaxy_L.webp",
+    "description": "Grants the ability to launch in the air and deploy the Bat Cape!",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.07%"
+      }
+    ],
+    "spriteType": "Batman",
+    "sourceUrl": "https://fortnite.gg/sprites/142-galaxy-batman-sprite"
+  },
+  {
+    "id": "145",
+    "slug": "holofoil-batman-sprite",
+    "name": "Holofoil Batman",
+    "href": "/sprites/145-holofoil-batman-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 0.34,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_FossilMeal_Holofoil_L.webp",
+    "description": "Grants the ability to launch in the air and deploy the Bat Cape!",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.34%"
+      }
+    ],
+    "spriteType": "Batman",
+    "sourceUrl": "https://fortnite.gg/sprites/145-holofoil-batman-sprite"
+  },
+  {
+    "id": "1",
+    "slug": "water-sprite",
+    "name": "Water",
+    "href": "/sprites/1-water-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Water_Unvault_Ch7S3_ui_L.webp",
+    "description": "Replenish shields while standing in water! Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 5 Shield -> 6 Shield per tick",
+    "location": "Spotted near rivers and beaches",
+    "summonCost": 100,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Water",
+    "sourceUrl": "https://fortnite.gg/sprites/1-water-sprite"
+  },
+  {
+    "id": "4",
+    "slug": "gold-water-sprite",
+    "name": "Gold Water",
+    "href": "/sprites/4-gold-water-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Water_Gold_ui_L.webp",
+    "description": "Replenish shields while standing in water! Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 5 Shield -> 6 Shield per tick",
+    "location": "Spotted near rivers and beaches",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Water",
+    "sourceUrl": "https://fortnite.gg/sprites/4-gold-water-sprite"
+  },
+  {
+    "id": "84",
+    "slug": "quack-water-sprite",
+    "name": "Quack Water",
+    "href": "/sprites/84-quack-water-sprite",
+    "rarity": "special",
+    "variant": "quack",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Water_Quack_ui_L.webp",
+    "description": "Replenish shields while standing in water! Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 5 Shield -> 6 Shield per tick",
+    "location": "Spotted near rivers and beaches",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Water",
+    "sourceUrl": "https://fortnite.gg/sprites/84-quack-water-sprite"
+  },
+  {
+    "id": "2",
+    "slug": "gummy-water-sprite",
+    "name": "Gummy Water",
+    "href": "/sprites/2-gummy-water-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Water_Candy_ui_L.webp",
+    "description": "Replenish shields while standing in water! Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 5 Shield -> 6 Shield per tick",
+    "location": "Spotted near rivers and beaches",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Water",
+    "sourceUrl": "https://fortnite.gg/sprites/2-gummy-water-sprite"
+  },
+  {
+    "id": "3",
+    "slug": "galaxy-water-sprite",
+    "name": "Galaxy Water",
+    "href": "/sprites/3-galaxy-water-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Water_Galaxy_ui_L.webp",
+    "description": "Replenish shields while standing in water! Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 5 Shield -> 6 Shield per tick",
+    "location": "Spotted near rivers and beaches",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Water",
+    "sourceUrl": "https://fortnite.gg/sprites/3-galaxy-water-sprite"
+  },
+  {
+    "id": "76",
+    "slug": "gem-water-sprite",
+    "name": "Gem Water",
+    "href": "/sprites/76-gem-water-sprite",
+    "rarity": "special",
+    "variant": "gem",
+    "percentage": 0.37,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Water_Gem_ui_L.webp",
+    "description": "Replenish shields while standing in water! Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 5 Shield -> 6 Shield per tick",
+    "location": "Spotted near rivers and beaches",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.37%"
+      }
+    ],
+    "spriteType": "Water",
+    "sourceUrl": "https://fortnite.gg/sprites/76-gem-water-sprite"
+  },
+  {
+    "id": "43",
+    "slug": "holofoil-water-sprite",
+    "name": "Holofoil Water",
+    "href": "/sprites/43-holofoil-water-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Water_Holofoil_ui_L.webp",
+    "description": "Replenish shields while standing in water! Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 5 Shield -> 6 Shield per tick",
+    "location": "Spotted near rivers and beaches",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Water",
+    "sourceUrl": "https://fortnite.gg/sprites/43-holofoil-water-sprite"
+  },
+  {
+    "id": "5",
+    "slug": "earth-sprite",
+    "name": "Earth",
+    "href": "/sprites/5-earth-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Earth_Ch7S3_UI_L.webp",
+    "description": "You have a chance to find additional rare items when opening chests. Chance increases at each Level Up: 10% -> 12.5% -> 15% -> 17.5% -> 20% chance to find additional rare loot",
+    "location": "Found wandering around forests and wooded regions",
+    "summonCost": 100,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Earth",
+    "sourceUrl": "https://fortnite.gg/sprites/5-earth-sprite"
+  },
+  {
+    "id": "86",
+    "slug": "cube-earth-sprite",
+    "name": "Cube Earth",
+    "href": "/sprites/86-cube-earth-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0.21,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Earth_Cube_ui_L.webp",
+    "description": "You have a chance to find additional rare items when opening chests. Chance increases at each Level Up: 10% -> 12.5% -> 15% -> 17.5% -> 20% chance to find additional rare loot",
+    "location": "Found wandering around forests and wooded regions",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.21%"
+      }
+    ],
+    "spriteType": "Earth",
+    "sourceUrl": "https://fortnite.gg/sprites/86-cube-earth-sprite"
+  },
+  {
+    "id": "8",
+    "slug": "gold-earth-sprite",
+    "name": "Gold Earth",
+    "href": "/sprites/8-gold-earth-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Earth_Gold_ui_L.webp",
+    "description": "You have a chance to find additional rare items when opening chests. Chance increases at each Level Up: 10% -> 12.5% -> 15% -> 17.5% -> 20% chance to find additional rare loot",
+    "location": "Found wandering around forests and wooded regions",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Earth",
+    "sourceUrl": "https://fortnite.gg/sprites/8-gold-earth-sprite"
+  },
+  {
+    "id": "87",
+    "slug": "quack-earth-sprite",
+    "name": "Quack Earth",
+    "href": "/sprites/87-quack-earth-sprite",
+    "rarity": "special",
+    "variant": "quack",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Earth_Quack_ui_L.webp",
+    "description": "You have a chance to find additional rare items when opening chests. Chance increases at each Level Up: 10% -> 12.5% -> 15% -> 17.5% -> 20% chance to find additional rare loot",
+    "location": "Found wandering around forests and wooded regions",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Earth",
+    "sourceUrl": "https://fortnite.gg/sprites/87-quack-earth-sprite"
+  },
+  {
+    "id": "6",
+    "slug": "gummy-earth-sprite",
+    "name": "Gummy Earth",
+    "href": "/sprites/6-gummy-earth-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Earth_Candy_ui_L.webp",
+    "description": "You have a chance to find additional rare items when opening chests. Chance increases at each Level Up: 10% -> 12.5% -> 15% -> 17.5% -> 20% chance to find additional rare loot",
+    "location": "Found wandering around forests and wooded regions",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Earth",
+    "sourceUrl": "https://fortnite.gg/sprites/6-gummy-earth-sprite"
+  },
+  {
+    "id": "7",
+    "slug": "galaxy-earth-sprite",
+    "name": "Galaxy Earth",
+    "href": "/sprites/7-galaxy-earth-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Earth_Galaxy_ui_L.webp",
+    "description": "You have a chance to find additional rare items when opening chests. Chance increases at each Level Up: 10% -> 12.5% -> 15% -> 17.5% -> 20% chance to find additional rare loot",
+    "location": "Found wandering around forests and wooded regions",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Earth",
+    "sourceUrl": "https://fortnite.gg/sprites/7-galaxy-earth-sprite"
+  },
+  {
+    "id": "45",
+    "slug": "gem-earth-sprite",
+    "name": "Gem Earth",
+    "href": "/sprites/45-gem-earth-sprite",
+    "rarity": "special",
+    "variant": "gem",
+    "percentage": 0.37,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Earth_Gem_ui_L.webp",
+    "description": "You have a chance to find additional rare items when opening chests. Chance increases at each Level Up: 10% -> 12.5% -> 15% -> 17.5% -> 20% chance to find additional rare loot",
+    "location": "Found wandering around forests and wooded regions",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.37%"
+      }
+    ],
+    "spriteType": "Earth",
+    "sourceUrl": "https://fortnite.gg/sprites/45-gem-earth-sprite"
+  },
+  {
+    "id": "9",
+    "slug": "fire-sprite",
+    "name": "Fire",
+    "href": "/sprites/9-fire-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fire_Unvault_Ch7S3_ui_L.webp",
+    "description": "Creates a fiery burst when you deal enough damage to an enemy! Required damage decreases at each Level Up: 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage -> 50 Damage to trigger",
+    "location": "Located near urban areas",
+    "summonCost": 100,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Fire",
+    "sourceUrl": "https://fortnite.gg/sprites/9-fire-sprite"
+  },
+  {
+    "id": "89",
+    "slug": "cube-fire-sprite",
+    "name": "Cube Fire",
+    "href": "/sprites/89-cube-fire-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0.21,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fire_Cube_ui_L.webp",
+    "description": "Creates a fiery burst when you deal enough damage to an enemy! Required damage decreases at each Level Up: 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage -> 50 Damage to trigger",
+    "location": "Located near urban areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.21%"
+      }
+    ],
+    "spriteType": "Fire",
+    "sourceUrl": "https://fortnite.gg/sprites/89-cube-fire-sprite"
+  },
+  {
+    "id": "12",
+    "slug": "gold-fire-sprite",
+    "name": "Gold Fire",
+    "href": "/sprites/12-gold-fire-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fire_Gold_ui_L.webp",
+    "description": "Creates a fiery burst when you deal enough damage to an enemy! Required damage decreases at each Level Up: 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage -> 50 Damage to trigger",
+    "location": "Located near urban areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Fire",
+    "sourceUrl": "https://fortnite.gg/sprites/12-gold-fire-sprite"
+  },
+  {
+    "id": "90",
+    "slug": "quack-fire-sprite",
+    "name": "Quack Fire",
+    "href": "/sprites/90-quack-fire-sprite",
+    "rarity": "special",
+    "variant": "quack",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fire_Quack_ui_L.webp",
+    "description": "Creates a fiery burst when you deal enough damage to an enemy! Required damage decreases at each Level Up: 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage -> 50 Damage to trigger",
+    "location": "Located near urban areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Fire",
+    "sourceUrl": "https://fortnite.gg/sprites/90-quack-fire-sprite"
+  },
+  {
+    "id": "10",
+    "slug": "gummy-fire-sprite",
+    "name": "Gummy Fire",
+    "href": "/sprites/10-gummy-fire-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fire_Candy_ui_L.webp",
+    "description": "Creates a fiery burst when you deal enough damage to an enemy! Required damage decreases at each Level Up: 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage -> 50 Damage to trigger",
+    "location": "Located near urban areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Fire",
+    "sourceUrl": "https://fortnite.gg/sprites/10-gummy-fire-sprite"
+  },
+  {
+    "id": "11",
+    "slug": "galaxy-fire-sprite",
+    "name": "Galaxy Fire",
+    "href": "/sprites/11-galaxy-fire-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fire_Galaxy_ui_L.webp",
+    "description": "Creates a fiery burst when you deal enough damage to an enemy! Required damage decreases at each Level Up: 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage -> 50 Damage to trigger",
+    "location": "Located near urban areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Fire",
+    "sourceUrl": "https://fortnite.gg/sprites/11-galaxy-fire-sprite"
+  },
+  {
+    "id": "46",
+    "slug": "holofoil-fire-sprite",
+    "name": "Holofoil Fire",
+    "href": "/sprites/46-holofoil-fire-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fire_Holofoil_ui_L.webp",
+    "description": "Creates a fiery burst when you deal enough damage to an enemy! Required damage decreases at each Level Up: 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage -> 50 Damage to trigger",
+    "location": "Located near urban areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Fire",
+    "sourceUrl": "https://fortnite.gg/sprites/46-holofoil-fire-sprite"
+  },
+  {
+    "id": "13",
+    "slug": "duck-sprite",
+    "name": "Duck",
+    "href": "/sprites/13-duck-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 6.48,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Duck_Default_L.webp",
+    "description": "Emoting or Jamming replenishes shields. Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 6 Shield -> 8 Shield per tick",
+    "location": "Found in the vault of a certain business mogul",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "6.48%"
+      }
+    ],
+    "spriteType": "Duck",
+    "sourceUrl": "https://fortnite.gg/sprites/13-duck-sprite"
+  },
+  {
+    "id": "16",
+    "slug": "gold-duck-sprite",
+    "name": "Gold Duck",
+    "href": "/sprites/16-gold-duck-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.62,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Duck_Gold_L.webp",
+    "description": "Emoting or Jamming replenishes shields. Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 6 Shield -> 8 Shield per tick",
+    "location": "Found in the vault of a certain business mogul",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.62%"
+      }
+    ],
+    "spriteType": "Duck",
+    "sourceUrl": "https://fortnite.gg/sprites/16-gold-duck-sprite"
+  },
+  {
+    "id": "14",
+    "slug": "gummy-duck-sprite",
+    "name": "Gummy Duck",
+    "href": "/sprites/14-gummy-duck-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.37,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Duck_Candy_L.webp",
+    "description": "Emoting or Jamming replenishes shields. Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 6 Shield -> 8 Shield per tick",
+    "location": "Found in the vault of a certain business mogul",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.37%"
+      }
+    ],
+    "spriteType": "Duck",
+    "sourceUrl": "https://fortnite.gg/sprites/14-gummy-duck-sprite"
+  },
+  {
+    "id": "15",
+    "slug": "galaxy-duck-sprite",
+    "name": "Galaxy Duck",
+    "href": "/sprites/15-galaxy-duck-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Duck_Galaxy_L.webp",
+    "description": "Emoting or Jamming replenishes shields. Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 6 Shield -> 8 Shield per tick",
+    "location": "Found in the vault of a certain business mogul",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.25%"
+      }
+    ],
+    "spriteType": "Duck",
+    "sourceUrl": "https://fortnite.gg/sprites/15-galaxy-duck-sprite"
+  },
+  {
+    "id": "44",
+    "slug": "gem-duck-sprite",
+    "name": "Gem Duck",
+    "href": "/sprites/44-gem-duck-sprite",
+    "rarity": "special",
+    "variant": "gem",
+    "percentage": 0.1,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Duck_Gem_L.webp",
+    "description": "Emoting or Jamming replenishes shields. Increases in power at each Level Up: 2 Shield -> 3 Shield -> 4 Shield -> 6 Shield -> 8 Shield per tick",
+    "location": "Found in the vault of a certain business mogul",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.1%"
+      }
+    ],
+    "spriteType": "Duck",
+    "sourceUrl": "https://fortnite.gg/sprites/44-gem-duck-sprite"
+  },
+  {
+    "id": "17",
+    "slug": "ghost-sprite",
+    "name": "Ghost",
+    "href": "/sprites/17-ghost-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 5.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Ghost_Unvault_L.webp",
+    "description": "Grants cloak for a duration upon reloading. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found in the world at nighttime",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "5.25%"
+      }
+    ],
+    "spriteType": "Ghost",
+    "sourceUrl": "https://fortnite.gg/sprites/17-ghost-sprite"
+  },
+  {
+    "id": "20",
+    "slug": "gold-ghost-sprite",
+    "name": "Gold Ghost",
+    "href": "/sprites/20-gold-ghost-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.62,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Ghost_Gold_L.webp",
+    "description": "Grants cloak for a duration upon reloading. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found in the world at nighttime",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.62%"
+      }
+    ],
+    "spriteType": "Ghost",
+    "sourceUrl": "https://fortnite.gg/sprites/20-gold-ghost-sprite"
+  },
+  {
+    "id": "18",
+    "slug": "gummy-ghost-sprite",
+    "name": "Gummy Ghost",
+    "href": "/sprites/18-gummy-ghost-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.37,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Ghost_Candy_L.webp",
+    "description": "Grants cloak for a duration upon reloading. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found in the world at nighttime",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.37%"
+      }
+    ],
+    "spriteType": "Ghost",
+    "sourceUrl": "https://fortnite.gg/sprites/18-gummy-ghost-sprite"
+  },
+  {
+    "id": "19",
+    "slug": "galaxy-ghost-sprite",
+    "name": "Galaxy Ghost",
+    "href": "/sprites/19-galaxy-ghost-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Ghost_Galaxy_L.webp",
+    "description": "Grants cloak for a duration upon reloading. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found in the world at nighttime",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.25%"
+      }
+    ],
+    "spriteType": "Ghost",
+    "sourceUrl": "https://fortnite.gg/sprites/19-galaxy-ghost-sprite"
+  },
+  {
+    "id": "48",
+    "slug": "holofoil-ghost-sprite",
+    "name": "Holofoil Ghost",
+    "href": "/sprites/48-holofoil-ghost-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 1.23,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Ghost_Holo_L.webp",
+    "description": "Grants cloak for a duration upon reloading. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found in the world at nighttime",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "1.23%"
+      }
+    ],
+    "spriteType": "Ghost",
+    "sourceUrl": "https://fortnite.gg/sprites/48-holofoil-ghost-sprite"
+  },
+  {
+    "id": "21",
+    "slug": "dream-sprite",
+    "name": "Dream",
+    "href": "/sprites/21-dream-sprite",
+    "rarity": "legendary",
+    "variant": "base",
+    "percentage": 4.45,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Sleepy_ui_L.webp",
+    "description": "Grants a random item at each level, exploding with legendary loot at Max Level. Loot value increases at each Level Up!",
+    "location": "Sometimes found sleeping in the storage crates",
+    "summonCost": 4500,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "4.45%"
+      }
+    ],
+    "spriteType": "Dream",
+    "sourceUrl": "https://fortnite.gg/sprites/21-dream-sprite"
+  },
+  {
+    "id": "99",
+    "slug": "cube-dream-sprite",
+    "name": "Cube Dream",
+    "href": "/sprites/99-cube-dream-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0.04,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Sleepy_Cube_ui_L.webp",
+    "description": "Grants a random item at each level, exploding with legendary loot at Max Level. Loot value increases at each Level Up!",
+    "location": "Sometimes found sleeping in the storage crates",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.04%"
+      }
+    ],
+    "spriteType": "Dream",
+    "sourceUrl": "https://fortnite.gg/sprites/99-cube-dream-sprite"
+  },
+  {
+    "id": "24",
+    "slug": "gold-dream-sprite",
+    "name": "Gold Dream",
+    "href": "/sprites/24-gold-dream-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Sleepy_Gold_ui_L.webp",
+    "description": "Grants a random item at each level, exploding with legendary loot at Max Level. Loot value increases at each Level Up!",
+    "location": "Sometimes found sleeping in the storage crates",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Dream",
+    "sourceUrl": "https://fortnite.gg/sprites/24-gold-dream-sprite"
+  },
+  {
+    "id": "22",
+    "slug": "gummy-dream-sprite",
+    "name": "Gummy Dream",
+    "href": "/sprites/22-gummy-dream-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.26,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Sleepy_Candy_ui_L.webp",
+    "description": "Grants a random item at each level, exploding with legendary loot at Max Level. Loot value increases at each Level Up!",
+    "location": "Sometimes found sleeping in the storage crates",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.26%"
+      }
+    ],
+    "spriteType": "Dream",
+    "sourceUrl": "https://fortnite.gg/sprites/22-gummy-dream-sprite"
+  },
+  {
+    "id": "23",
+    "slug": "galaxy-dream-sprite",
+    "name": "Galaxy Dream",
+    "href": "/sprites/23-galaxy-dream-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.17,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Sleepy_Galaxy_ui_L.webp",
+    "description": "Grants a random item at each level, exploding with legendary loot at Max Level. Loot value increases at each Level Up!",
+    "location": "Sometimes found sleeping in the storage crates",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.17%"
+      }
+    ],
+    "spriteType": "Dream",
+    "sourceUrl": "https://fortnite.gg/sprites/23-galaxy-dream-sprite"
+  },
+  {
+    "id": "37",
+    "slug": "demon-sprite",
+    "name": "Demon",
+    "href": "/sprites/37-demon-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 6.48,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_RedDemon_Default_L.webp",
+    "description": "Siphon some health and shields when you eliminate an opponent. Increases in power at each Level Up: 10 Healing -> 15 Healing -> 20 Healing -> 25 Healing -> 30 Healing per elimination",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "6.48%"
+      }
+    ],
+    "spriteType": "Demon",
+    "sourceUrl": "https://fortnite.gg/sprites/37-demon-sprite"
+  },
+  {
+    "id": "40",
+    "slug": "gold-demon-sprite",
+    "name": "Gold Demon",
+    "href": "/sprites/40-gold-demon-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.62,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_RedDemon_Gold_L.webp",
+    "description": "Siphon some health and shields when you eliminate an opponent. Increases in power at each Level Up: 10 Healing -> 15 Healing -> 20 Healing -> 25 Healing -> 30 Healing per elimination",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.62%"
+      }
+    ],
+    "spriteType": "Demon",
+    "sourceUrl": "https://fortnite.gg/sprites/40-gold-demon-sprite"
+  },
+  {
+    "id": "38",
+    "slug": "gummy-demon-sprite",
+    "name": "Gummy Demon",
+    "href": "/sprites/38-gummy-demon-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.37,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_RedDemon_Candy_L.webp",
+    "description": "Siphon some health and shields when you eliminate an opponent. Increases in power at each Level Up: 10 Healing -> 15 Healing -> 20 Healing -> 25 Healing -> 30 Healing per elimination",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.37%"
+      }
+    ],
+    "spriteType": "Demon",
+    "sourceUrl": "https://fortnite.gg/sprites/38-gummy-demon-sprite"
+  },
+  {
+    "id": "39",
+    "slug": "galaxy-demon-sprite",
+    "name": "Galaxy Demon",
+    "href": "/sprites/39-galaxy-demon-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_RedDemon_Galaxy_L.webp",
+    "description": "Siphon some health and shields when you eliminate an opponent. Increases in power at each Level Up: 10 Healing -> 15 Healing -> 20 Healing -> 25 Healing -> 30 Healing per elimination",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.25%"
+      }
+    ],
+    "spriteType": "Demon",
+    "sourceUrl": "https://fortnite.gg/sprites/39-galaxy-demon-sprite"
+  },
+  {
+    "id": "47",
+    "slug": "gem-demon-sprite",
+    "name": "Gem Demon",
+    "href": "/sprites/47-gem-demon-sprite",
+    "rarity": "special",
+    "variant": "gem",
+    "percentage": 0.1,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_RedDemon_Gem_L.webp",
+    "description": "Siphon some health and shields when you eliminate an opponent. Increases in power at each Level Up: 10 Healing -> 15 Healing -> 20 Healing -> 25 Healing -> 30 Healing per elimination",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.1%"
+      }
+    ],
+    "spriteType": "Demon",
+    "sourceUrl": "https://fortnite.gg/sprites/47-gem-demon-sprite"
+  },
+  {
+    "id": "25",
+    "slug": "punk-sprite",
+    "name": "Punk",
+    "href": "/sprites/25-punk-sprite",
+    "rarity": "legendary",
+    "variant": "base",
+    "percentage": 4.45,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Punk_ui_L.webp",
+    "description": "Possibly nothing... or infinitely something",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4500,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "4.45%"
+      }
+    ],
+    "spriteType": "Punk",
+    "sourceUrl": "https://fortnite.gg/sprites/25-punk-sprite"
+  },
+  {
+    "id": "106",
+    "slug": "cube-punk-sprite",
+    "name": "Cube Punk",
+    "href": "/sprites/106-cube-punk-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0.04,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Punk_Cube_ui_L.webp",
+    "description": "Possibly nothing... or infinitely something",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.04%"
+      }
+    ],
+    "spriteType": "Punk",
+    "sourceUrl": "https://fortnite.gg/sprites/106-cube-punk-sprite"
+  },
+  {
+    "id": "28",
+    "slug": "gold-punk-sprite",
+    "name": "Gold Punk",
+    "href": "/sprites/28-gold-punk-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Punk_Gold_ui_L.webp",
+    "description": "Possibly nothing... or infinitely something",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Punk",
+    "sourceUrl": "https://fortnite.gg/sprites/28-gold-punk-sprite"
+  },
+  {
+    "id": "26",
+    "slug": "gummy-punk-sprite",
+    "name": "Gummy Punk",
+    "href": "/sprites/26-gummy-punk-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.26,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Punk_Candy_ui_L.webp",
+    "description": "Possibly nothing... or infinitely something",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.26%"
+      }
+    ],
+    "spriteType": "Punk",
+    "sourceUrl": "https://fortnite.gg/sprites/26-gummy-punk-sprite"
+  },
+  {
+    "id": "27",
+    "slug": "galaxy-punk-sprite",
+    "name": "Galaxy Punk",
+    "href": "/sprites/27-galaxy-punk-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.17,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Punk_Galaxy_ui_L.webp",
+    "description": "Possibly nothing... or infinitely something",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.17%"
+      }
+    ],
+    "spriteType": "Punk",
+    "sourceUrl": "https://fortnite.gg/sprites/27-galaxy-punk-sprite"
+  },
+  {
+    "id": "29",
+    "slug": "king-sprite",
+    "name": "King",
+    "href": "/sprites/29-king-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 5.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_King_ui_L.webp",
+    "description": "Your Pickaxe deals more damage. Increases in damage at each Level Up: 30 -> 40 -> 60 -> 80 -> 120 bonus damage",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "5.25%"
+      }
+    ],
+    "spriteType": "King",
+    "sourceUrl": "https://fortnite.gg/sprites/29-king-sprite"
+  },
+  {
+    "id": "32",
+    "slug": "gold-king-sprite",
+    "name": "Gold King",
+    "href": "/sprites/32-gold-king-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.62,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_King_Gold_ui_L.webp",
+    "description": "Your Pickaxe deals more damage. Increases in damage at each Level Up: 30 -> 40 -> 60 -> 80 -> 120 bonus damage",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.62%"
+      }
+    ],
+    "spriteType": "King",
+    "sourceUrl": "https://fortnite.gg/sprites/32-gold-king-sprite"
+  },
+  {
+    "id": "30",
+    "slug": "gummy-king-sprite",
+    "name": "Gummy King",
+    "href": "/sprites/30-gummy-king-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.37,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_King_Candy_ui_L.webp",
+    "description": "Your Pickaxe deals more damage. Increases in damage at each Level Up: 30 -> 40 -> 60 -> 80 -> 120 bonus damage",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.37%"
+      }
+    ],
+    "spriteType": "King",
+    "sourceUrl": "https://fortnite.gg/sprites/30-gummy-king-sprite"
+  },
+  {
+    "id": "31",
+    "slug": "galaxy-king-sprite",
+    "name": "Galaxy King",
+    "href": "/sprites/31-galaxy-king-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_King_Galaxy_ui_L.webp",
+    "description": "Your Pickaxe deals more damage. Increases in damage at each Level Up: 30 -> 40 -> 60 -> 80 -> 120 bonus damage",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.25%"
+      }
+    ],
+    "spriteType": "King",
+    "sourceUrl": "https://fortnite.gg/sprites/31-galaxy-king-sprite"
+  },
+  {
+    "id": "73",
+    "slug": "holofoil-king-sprite",
+    "name": "Holofoil King",
+    "href": "/sprites/73-holofoil-king-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 1.23,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_King_Holofoil_ui_L.webp",
+    "description": "Your Pickaxe deals more damage. Increases in damage at each Level Up: 30 -> 40 -> 60 -> 80 -> 120 bonus damage",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "1.23%"
+      }
+    ],
+    "spriteType": "King",
+    "sourceUrl": "https://fortnite.gg/sprites/73-holofoil-king-sprite"
+  },
+  {
+    "id": "149",
+    "slug": "vini-jr-sprite",
+    "name": "Vini Jr.",
+    "href": "/sprites/149-vini-jr-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 2.14,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_CokeParmesan_Default_L.webp",
+    "description": "Sprinting for a short time makes your slide destructive. Slidekicking enemies increases rate of fire and reload speed. Increases in power at each Level Up: 40 dmg / 10% fire rate -> 45 dmg / 20% fire rate -> 50 dmg / 30% fire rate -> 55 dmg / 40% fire rate -> 60 dmg / 50% fire rate",
+    "location": "Found in Relic Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "2.14%"
+      }
+    ],
+    "spriteType": "Vini Jr.",
+    "sourceUrl": "https://fortnite.gg/sprites/149-vini-jr-sprite"
+  },
+  {
+    "id": "41",
+    "slug": "burnt-peanut",
+    "name": "Burnt Peanut",
+    "href": "/sprites/41-burnt-peanut",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 2.14,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_BurntPeanut_ui_L.webp",
+    "description": "Goop! When eliminating players, you may find more loot. Sometimes mythic! Chance increases at each Level Up: 20% -> 30% -> 40% -> 50% -> 60% chance to find more loot. 10% chance to find Mythic at Max Level!",
+    "location": "Found in Relic Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "2.14%"
+      }
+    ],
+    "spriteType": "Burnt Peanut",
+    "sourceUrl": "https://fortnite.gg/sprites/41-burnt-peanut"
+  },
+  {
+    "id": "33",
+    "slug": "zero-point-sprite",
+    "name": "Zero Point",
+    "href": "/sprites/33-zero-point-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_ZeroPoint_ui_L.webp",
+    "description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades). Increases in duration at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Zero Point",
+    "sourceUrl": "https://fortnite.gg/sprites/33-zero-point-sprite"
+  },
+  {
+    "id": "112",
+    "slug": "cube-zero-point-sprite",
+    "name": "Cube Zero Point",
+    "href": "/sprites/112-cube-zero-point-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0.000014,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_ZeroPoint_Cube_ui_L.webp",
+    "description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades). Increases in duration at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.000014%"
+      }
+    ],
+    "spriteType": "Zero Point",
+    "sourceUrl": "https://fortnite.gg/sprites/112-cube-zero-point-sprite"
+  },
+  {
+    "id": "36",
+    "slug": "gold-zero-point-sprite",
+    "name": "Gold Zero Point",
+    "href": "/sprites/36-gold-zero-point-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.00014,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_ZeroPoint_Gold_ui_L.webp",
+    "description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades). Increases in duration at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.00014%"
+      }
+    ],
+    "spriteType": "Zero Point",
+    "sourceUrl": "https://fortnite.gg/sprites/36-gold-zero-point-sprite"
+  },
+  {
+    "id": "113",
+    "slug": "quack-zero-point-sprite",
+    "name": "Quack Zero Point",
+    "href": "/sprites/113-quack-zero-point-sprite",
+    "rarity": "special",
+    "variant": "quack",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_ZeroPoint_Quack_ui_L.webp",
+    "description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades). Increases in duration at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Zero Point",
+    "sourceUrl": "https://fortnite.gg/sprites/113-quack-zero-point-sprite"
+  },
+  {
+    "id": "34",
+    "slug": "gummy-zero-point-sprite",
+    "name": "Gummy Zero Point",
+    "href": "/sprites/34-gummy-zero-point-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.000085,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_ZeroPoint_Candy_ui_L.webp",
+    "description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades). Increases in duration at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.000085%"
+      }
+    ],
+    "spriteType": "Zero Point",
+    "sourceUrl": "https://fortnite.gg/sprites/34-gummy-zero-point-sprite"
+  },
+  {
+    "id": "35",
+    "slug": "galaxy-zero-point-sprite",
+    "name": "Galaxy Zero Point",
+    "href": "/sprites/35-galaxy-zero-point-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.000056,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_ZeroPoint_Galaxy_ui_L.webp",
+    "description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades). Increases in duration at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.000056%"
+      }
+    ],
+    "spriteType": "Zero Point",
+    "sourceUrl": "https://fortnite.gg/sprites/35-galaxy-zero-point-sprite"
+  },
+  {
+    "id": "82",
+    "slug": "gem-zero-point-sprite",
+    "name": "Gem Zero Point",
+    "href": "/sprites/82-gem-zero-point-sprite",
+    "rarity": "special",
+    "variant": "gem",
+    "percentage": 0.00001,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_ZeroPoint_Gem_ui_L.webp",
+    "description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades). Increases in duration at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.00001%"
+      }
+    ],
+    "spriteType": "Zero Point",
+    "sourceUrl": "https://fortnite.gg/sprites/82-gem-zero-point-sprite"
+  },
+  {
+    "id": "111",
+    "slug": "holofoil-zero-point-sprite",
+    "name": "Holofoil Zero Point",
+    "href": "/sprites/111-holofoil-zero-point-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 0.00028,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_ZeroPoint_Holofoil_ui_L.webp",
+    "description": "Spawn a Shield Bubble Jr. when you use a healing item on yourself (excluding splashes and grenades). Increases in duration at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.00028%"
+      }
+    ],
+    "spriteType": "Zero Point",
+    "sourceUrl": "https://fortnite.gg/sprites/111-holofoil-zero-point-sprite"
+  },
+  {
+    "id": "58",
+    "slug": "fishy-sprite",
+    "name": "Fishy",
+    "href": "/sprites/58-fishy-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fishy_ui_L.webp",
+    "description": "Swim speed greatly increased. Taking damage also briefly increases movement speed. Increases in power at each Level Up: 25% Swim Speed / 10% Movement Speed -> 50% Swim Speed / 20% Movement Speed -> 100% Swim Speed / 30% Movement Speed -> 150% Swim Speed / 40% Movement Speed -> 200% Swim Speed / 50% Movement Speed Bonuses",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 1800,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Fishy",
+    "sourceUrl": "https://fortnite.gg/sprites/58-fishy-sprite"
+  },
+  {
+    "id": "116",
+    "slug": "cube-fishy-sprite",
+    "name": "Cube Fishy",
+    "href": "/sprites/116-cube-fishy-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0.21,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fishy_Cube_L.webp",
+    "description": "Swim speed greatly increased. Taking damage also briefly increases movement speed. Increases in power at each Level Up: 25% Swim Speed / 10% Movement Speed -> 50% Swim Speed / 20% Movement Speed -> 100% Swim Speed / 30% Movement Speed -> 150% Swim Speed / 40% Movement Speed -> 200% Swim Speed / 50% Movement Speed Bonuses",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.21%"
+      }
+    ],
+    "spriteType": "Fishy",
+    "sourceUrl": "https://fortnite.gg/sprites/116-cube-fishy-sprite"
+  },
+  {
+    "id": "61",
+    "slug": "gold-fishy-sprite",
+    "name": "Gold Fishy",
+    "href": "/sprites/61-gold-fishy-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.64,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fishy_Gold_ui_L.webp",
+    "description": "Swim speed greatly increased. Taking damage also briefly increases movement speed. Increases in power at each Level Up: 25% Swim Speed / 10% Movement Speed -> 50% Swim Speed / 20% Movement Speed -> 100% Swim Speed / 30% Movement Speed -> 150% Swim Speed / 40% Movement Speed -> 200% Swim Speed / 50% Movement Speed Bonuses",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.64%"
+      }
+    ],
+    "spriteType": "Fishy",
+    "sourceUrl": "https://fortnite.gg/sprites/61-gold-fishy-sprite"
+  },
+  {
+    "id": "59",
+    "slug": "gummy-fishy-sprite",
+    "name": "Gummy Fishy",
+    "href": "/sprites/59-gummy-fishy-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fishy_Candy_ui_L.webp",
+    "description": "Swim speed greatly increased. Taking damage also briefly increases movement speed. Increases in power at each Level Up: 25% Swim Speed / 10% Movement Speed -> 50% Swim Speed / 20% Movement Speed -> 100% Swim Speed / 30% Movement Speed -> 150% Swim Speed / 40% Movement Speed -> 200% Swim Speed / 50% Movement Speed Bonuses",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Fishy",
+    "sourceUrl": "https://fortnite.gg/sprites/59-gummy-fishy-sprite"
+  },
+  {
+    "id": "60",
+    "slug": "galaxy-fishy-sprite",
+    "name": "Galaxy Fishy",
+    "href": "/sprites/60-galaxy-fishy-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Fishy_Galaxy_ui_L.webp",
+    "description": "Swim speed greatly increased. Taking damage also briefly increases movement speed. Increases in power at each Level Up: 25% Swim Speed / 10% Movement Speed -> 50% Swim Speed / 20% Movement Speed -> 100% Swim Speed / 30% Movement Speed -> 150% Swim Speed / 40% Movement Speed -> 200% Swim Speed / 50% Movement Speed Bonuses",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Fishy",
+    "sourceUrl": "https://fortnite.gg/sprites/60-galaxy-fishy-sprite"
+  },
+  {
+    "id": "62",
+    "slug": "striker-sprite",
+    "name": "Striker",
+    "href": "/sprites/62-striker-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 5.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Soccer_ui_L.webp",
+    "description": "Gain the Overdrive effect when you Mantle, Hurdle, or Wall Scramble. Duration increases at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds of Overdrive",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "5.25%"
+      }
+    ],
+    "spriteType": "Striker",
+    "sourceUrl": "https://fortnite.gg/sprites/62-striker-sprite"
+  },
+  {
+    "id": "65",
+    "slug": "gold-striker-sprite",
+    "name": "Gold Striker",
+    "href": "/sprites/65-gold-striker-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.62,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Soccer_Gold_L.webp",
+    "description": "Gain the Overdrive effect when you Mantle, Hurdle, or Wall Scramble. Duration increases at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds of Overdrive",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.62%"
+      }
+    ],
+    "spriteType": "Striker",
+    "sourceUrl": "https://fortnite.gg/sprites/65-gold-striker-sprite"
+  },
+  {
+    "id": "63",
+    "slug": "gummy-striker-sprite",
+    "name": "Gummy Striker",
+    "href": "/sprites/63-gummy-striker-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.37,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Soccer_Candy_L.webp",
+    "description": "Gain the Overdrive effect when you Mantle, Hurdle, or Wall Scramble. Duration increases at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds of Overdrive",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.37%"
+      }
+    ],
+    "spriteType": "Striker",
+    "sourceUrl": "https://fortnite.gg/sprites/63-gummy-striker-sprite"
+  },
+  {
+    "id": "64",
+    "slug": "galaxy-striker-sprite",
+    "name": "Galaxy Striker",
+    "href": "/sprites/64-galaxy-striker-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Soccer_Galaxy_L.webp",
+    "description": "Gain the Overdrive effect when you Mantle, Hurdle, or Wall Scramble. Duration increases at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds of Overdrive",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.25%"
+      }
+    ],
+    "spriteType": "Striker",
+    "sourceUrl": "https://fortnite.gg/sprites/64-galaxy-striker-sprite"
+  },
+  {
+    "id": "66",
+    "slug": "holofoil-striker-sprite",
+    "name": "Holofoil Striker",
+    "href": "/sprites/66-holofoil-striker-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 1.23,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Soccer_Holofoil_L.webp",
+    "description": "Gain the Overdrive effect when you Mantle, Hurdle, or Wall Scramble. Duration increases at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds of Overdrive",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "1.23%"
+      }
+    ],
+    "spriteType": "Striker",
+    "sourceUrl": "https://fortnite.gg/sprites/66-holofoil-striker-sprite"
+  },
+  {
+    "id": "67",
+    "slug": "aura-sprite",
+    "name": "Aura",
+    "href": "/sprites/67-aura-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 6.48,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Drifter_ui_L.webp",
+    "description": "Gain a Shock Rock charge when you deal enough damage to enemies! Required damage decreases at each Level Up: 175 Damage -> 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage to trigger",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "6.48%"
+      }
+    ],
+    "spriteType": "Aura",
+    "sourceUrl": "https://fortnite.gg/sprites/67-aura-sprite"
+  },
+  {
+    "id": "71",
+    "slug": "gold-aura-sprite",
+    "name": "Gold Aura",
+    "href": "/sprites/71-gold-aura-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.62,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Drifter_Gold_ui_L.webp",
+    "description": "Gain a Shock Rock charge when you deal enough damage to enemies! Required damage decreases at each Level Up: 175 Damage -> 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage to trigger",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.62%"
+      }
+    ],
+    "spriteType": "Aura",
+    "sourceUrl": "https://fortnite.gg/sprites/71-gold-aura-sprite"
+  },
+  {
+    "id": "68",
+    "slug": "gummy-aura-sprite",
+    "name": "Gummy Aura",
+    "href": "/sprites/68-gummy-aura-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.37,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Drifter_Candy_ui_L.webp",
+    "description": "Gain a Shock Rock charge when you deal enough damage to enemies! Required damage decreases at each Level Up: 175 Damage -> 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage to trigger",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.37%"
+      }
+    ],
+    "spriteType": "Aura",
+    "sourceUrl": "https://fortnite.gg/sprites/68-gummy-aura-sprite"
+  },
+  {
+    "id": "69",
+    "slug": "galaxy-aura-sprite",
+    "name": "Galaxy Aura",
+    "href": "/sprites/69-galaxy-aura-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.25,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Drifter_Galaxy_ui_L.webp",
+    "description": "Gain a Shock Rock charge when you deal enough damage to enemies! Required damage decreases at each Level Up: 175 Damage -> 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage to trigger",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.25%"
+      }
+    ],
+    "spriteType": "Aura",
+    "sourceUrl": "https://fortnite.gg/sprites/69-galaxy-aura-sprite"
+  },
+  {
+    "id": "70",
+    "slug": "gem-aura-sprite",
+    "name": "Gem Aura",
+    "href": "/sprites/70-gem-aura-sprite",
+    "rarity": "special",
+    "variant": "gem",
+    "percentage": 0.08,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Drifter_Gem_ui_L.webp",
+    "description": "Gain a Shock Rock charge when you deal enough damage to enemies! Required damage decreases at each Level Up: 175 Damage -> 150 Damage -> 125 Damage -> 100 Damage -> 75 Damage to trigger",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.08%"
+      }
+    ],
+    "spriteType": "Aura",
+    "sourceUrl": "https://fortnite.gg/sprites/70-gem-aura-sprite"
+  },
+  {
+    "id": "49",
+    "slug": "boss-sprite",
+    "name": "Boss",
+    "href": "/sprites/49-boss-sprite",
+    "rarity": "legendary",
+    "variant": "base",
+    "percentage": 4.45,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Boss_ui_L.webp",
+    "description": "Grants an increase to your max HP and Shield. Increases at each Level Up: 5 HP/Shield -> 10 HP/Shield -> 15 HP/Shield -> 20 HP/Shield -> 25 HP/Shield",
+    "location": "Claimed from defeating a powerful adversary",
+    "summonCost": 4500,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "4.45%"
+      }
+    ],
+    "spriteType": "Boss",
+    "sourceUrl": "https://fortnite.gg/sprites/49-boss-sprite"
+  },
+  {
+    "id": "126",
+    "slug": "cube-boss-sprite",
+    "name": "Cube Boss",
+    "href": "/sprites/126-cube-boss-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0.04,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Boss_Cube_ui_L.webp",
+    "description": "Grants an increase to your max HP and Shield. Increases at each Level Up: 5 HP/Shield -> 10 HP/Shield -> 15 HP/Shield -> 20 HP/Shield -> 25 HP/Shield",
+    "location": "Claimed from defeating a powerful adversary",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.04%"
+      }
+    ],
+    "spriteType": "Boss",
+    "sourceUrl": "https://fortnite.gg/sprites/126-cube-boss-sprite"
+  },
+  {
+    "id": "50",
+    "slug": "gold-boss-sprite",
+    "name": "Gold Boss",
+    "href": "/sprites/50-gold-boss-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Boss_Gold_ui_L.webp",
+    "description": "Grants an increase to your max HP and Shield. Increases at each Level Up: 5 HP/Shield -> 10 HP/Shield -> 15 HP/Shield -> 20 HP/Shield -> 25 HP/Shield",
+    "location": "Claimed from defeating a powerful adversary",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Boss",
+    "sourceUrl": "https://fortnite.gg/sprites/50-gold-boss-sprite"
+  },
+  {
+    "id": "51",
+    "slug": "gummy-boss-sprite",
+    "name": "Gummy Boss",
+    "href": "/sprites/51-gummy-boss-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.26,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Boss_Candy_ui_L.webp",
+    "description": "Grants an increase to your max HP and Shield. Increases at each Level Up: 5 HP/Shield -> 10 HP/Shield -> 15 HP/Shield -> 20 HP/Shield -> 25 HP/Shield",
+    "location": "Claimed from defeating a powerful adversary",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.26%"
+      }
+    ],
+    "spriteType": "Boss",
+    "sourceUrl": "https://fortnite.gg/sprites/51-gummy-boss-sprite"
+  },
+  {
+    "id": "52",
+    "slug": "galaxy-boss-sprite",
+    "name": "Galaxy Boss",
+    "href": "/sprites/52-galaxy-boss-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.17,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Boss_Galaxy_ui_L.webp",
+    "description": "Grants an increase to your max HP and Shield. Increases at each Level Up: 5 HP/Shield -> 10 HP/Shield -> 15 HP/Shield -> 20 HP/Shield -> 25 HP/Shield",
+    "location": "Claimed from defeating a powerful adversary",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.17%"
+      }
+    ],
+    "spriteType": "Boss",
+    "sourceUrl": "https://fortnite.gg/sprites/52-galaxy-boss-sprite"
+  },
+  {
+    "id": "78",
+    "slug": "grim-sprite",
+    "name": "Grim",
+    "href": "/sprites/78-grim-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 0.15,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_GrimReaper_Default_L.webp",
+    "description": "Players who attack you are marked for a duration. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.15%"
+      }
+    ],
+    "spriteType": "Grim",
+    "sourceUrl": "https://fortnite.gg/sprites/78-grim-sprite"
+  },
+  {
+    "id": "130",
+    "slug": "cube-grim-sprite",
+    "name": "Cube Grim",
+    "href": "/sprites/130-cube-grim-sprite",
+    "rarity": "special",
+    "variant": "cube",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_GrimReaper_Cube_L.webp",
+    "description": "Players who attack you are marked for a duration. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Grim",
+    "sourceUrl": "https://fortnite.gg/sprites/130-cube-grim-sprite"
+  },
+  {
+    "id": "81",
+    "slug": "gold-grim-sprite",
+    "name": "Gold Grim",
+    "href": "/sprites/81-gold-grim-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.01,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_GrimReaper_Gold_L.webp",
+    "description": "Players who attack you are marked for a duration. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.01%"
+      }
+    ],
+    "spriteType": "Grim",
+    "sourceUrl": "https://fortnite.gg/sprites/81-gold-grim-sprite"
+  },
+  {
+    "id": "79",
+    "slug": "gummy-grim-sprite",
+    "name": "Gummy Grim",
+    "href": "/sprites/79-gummy-grim-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.01,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_GrimReaper_Candy_L.webp",
+    "description": "Players who attack you are marked for a duration. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.01%"
+      }
+    ],
+    "spriteType": "Grim",
+    "sourceUrl": "https://fortnite.gg/sprites/79-gummy-grim-sprite"
+  },
+  {
+    "id": "80",
+    "slug": "galaxy-grim-sprite",
+    "name": "Galaxy Grim",
+    "href": "/sprites/80-galaxy-grim-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.01,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_GrimReaper_Galaxy_L.webp",
+    "description": "Players who attack you are marked for a duration. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.01%"
+      }
+    ],
+    "spriteType": "Grim",
+    "sourceUrl": "https://fortnite.gg/sprites/80-galaxy-grim-sprite"
+  },
+  {
+    "id": "128",
+    "slug": "gem-grim-sprite",
+    "name": "Gem Grim",
+    "href": "/sprites/128-gem-grim-sprite",
+    "rarity": "special",
+    "variant": "gem",
+    "percentage": 0.00099,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_GrimReaper_Gem_L.webp",
+    "description": "Players who attack you are marked for a duration. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.00099%"
+      }
+    ],
+    "spriteType": "Grim",
+    "sourceUrl": "https://fortnite.gg/sprites/128-gem-grim-sprite"
+  },
+  {
+    "id": "129",
+    "slug": "holofoil-grim-sprite",
+    "name": "Holofoil Grim",
+    "href": "/sprites/129-holofoil-grim-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_GrimReaper_Holofoil_L.webp",
+    "description": "Players who attack you are marked for a duration. Increases in duration at each Level Up: 3 Seconds -> 3.5 Seconds -> 4 Seconds -> 4.5 Seconds -> 5 Seconds",
+    "location": "Found rarely in Sprite Chests",
+    "summonCost": 10000,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Grim",
+    "sourceUrl": "https://fortnite.gg/sprites/129-holofoil-grim-sprite"
+  },
+  {
+    "id": "74",
+    "slug": "air-sprite",
+    "name": "Air",
+    "href": "/sprites/74-air-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Air_Default_L.webp",
+    "description": "Increases sprinting speed and jump height. Also nullifies fall damage. Jump height increased with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 1800,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Air",
+    "sourceUrl": "https://fortnite.gg/sprites/74-air-sprite"
+  },
+  {
+    "id": "42",
+    "slug": "gold-air-sprite",
+    "name": "Gold Air",
+    "href": "/sprites/42-gold-air-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Air_Gold_L.webp",
+    "description": "Increases sprinting speed and jump height. Also nullifies fall damage. Jump height increased with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Air",
+    "sourceUrl": "https://fortnite.gg/sprites/42-gold-air-sprite"
+  },
+  {
+    "id": "72",
+    "slug": "gummy-air-sprite",
+    "name": "Gummy Air",
+    "href": "/sprites/72-gummy-air-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Air_Candy_L.webp",
+    "description": "Increases sprinting speed and jump height. Also nullifies fall damage. Jump height increased with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Air",
+    "sourceUrl": "https://fortnite.gg/sprites/72-gummy-air-sprite"
+  },
+  {
+    "id": "75",
+    "slug": "galaxy-air-sprite",
+    "name": "Galaxy Air",
+    "href": "/sprites/75-galaxy-air-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Air_Galaxy_L.webp",
+    "description": "Increases sprinting speed and jump height. Also nullifies fall damage. Jump height increased with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Air",
+    "sourceUrl": "https://fortnite.gg/sprites/75-galaxy-air-sprite"
+  },
+  {
+    "id": "77",
+    "slug": "holofoil-air-sprite",
+    "name": "Holofoil Air",
+    "href": "/sprites/77-holofoil-air-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 0.53,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Air_Holo_L.webp",
+    "description": "Increases sprinting speed and jump height. Also nullifies fall damage. Jump height increased with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 2700,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.53%"
+      }
+    ],
+    "spriteType": "Air",
+    "sourceUrl": "https://fortnite.gg/sprites/77-holofoil-air-sprite"
+  },
+  {
+    "id": "53",
+    "slug": "seven-sprite",
+    "name": "Seven",
+    "href": "/sprites/53-seven-sprite",
+    "rarity": "legendary",
+    "variant": "base",
+    "percentage": 3.63,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Seven_ui_L.webp",
+    "description": "Enemy player foot trails are visible in the world for your Squad. Duration increases at each Level Up: 10 Seconds -> 15 Seconds -> 20 Seconds -> 25 Seconds -> 30 Second foot trails",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4500,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "3.63%"
+      }
+    ],
+    "spriteType": "Seven",
+    "sourceUrl": "https://fortnite.gg/sprites/53-seven-sprite"
+  },
+  {
+    "id": "56",
+    "slug": "gold-seven-sprite",
+    "name": "Gold Seven",
+    "href": "/sprites/56-gold-seven-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Seven_Gold_ui_L.webp",
+    "description": "Enemy player foot trails are visible in the world for your Squad. Duration increases at each Level Up: 10 Seconds -> 15 Seconds -> 20 Seconds -> 25 Seconds -> 30 Second foot trails",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Seven",
+    "sourceUrl": "https://fortnite.gg/sprites/56-gold-seven-sprite"
+  },
+  {
+    "id": "54",
+    "slug": "gummy-seven-sprite",
+    "name": "Gummy Seven",
+    "href": "/sprites/54-gummy-seven-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.26,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Seven_Candy_ui_L.webp",
+    "description": "Enemy player foot trails are visible in the world for your Squad. Duration increases at each Level Up: 10 Seconds -> 15 Seconds -> 20 Seconds -> 25 Seconds -> 30 Second foot trails",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.26%"
+      }
+    ],
+    "spriteType": "Seven",
+    "sourceUrl": "https://fortnite.gg/sprites/54-gummy-seven-sprite"
+  },
+  {
+    "id": "55",
+    "slug": "galaxy-seven-sprite",
+    "name": "Galaxy Seven",
+    "href": "/sprites/55-galaxy-seven-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.17,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Seven_Galaxy_ui_L.webp",
+    "description": "Enemy player foot trails are visible in the world for your Squad. Duration increases at each Level Up: 10 Seconds -> 15 Seconds -> 20 Seconds -> 25 Seconds -> 30 Second foot trails",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.17%"
+      }
+    ],
+    "spriteType": "Seven",
+    "sourceUrl": "https://fortnite.gg/sprites/55-galaxy-seven-sprite"
+  },
+  {
+    "id": "57",
+    "slug": "holofoil-seven-sprite",
+    "name": "Holofoil Seven",
+    "href": "/sprites/57-holofoil-seven-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 0.85,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Seven_Holofoil_ui_L.webp",
+    "description": "Enemy player foot trails are visible in the world for your Squad. Duration increases at each Level Up: 10 Seconds -> 15 Seconds -> 20 Seconds -> 25 Seconds -> 30 Second foot trails",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.85%"
+      }
+    ],
+    "spriteType": "Seven",
+    "sourceUrl": "https://fortnite.gg/sprites/57-holofoil-seven-sprite"
+  },
+  {
+    "id": "150",
+    "slug": "ironmouse-sprite",
+    "name": "Ironmouse",
+    "href": "/sprites/150-ironmouse-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 2.14,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_PedicureAntacid_L.webp",
+    "description": "Regenerate health over time when low. While regenerating, gain Cloak and low gravity! Health regenerated to increases at each Level Up: 60 Health -> 70 Health -> 80 Health -> 90 Health -> 100 Health",
+    "location": "Found in Relic Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "2.14%"
+      }
+    ],
+    "spriteType": "Ironmouse",
+    "sourceUrl": "https://fortnite.gg/sprites/150-ironmouse-sprite"
+  },
+  {
+    "id": "148",
+    "slug": "pollo-sprite",
+    "name": "Pollo",
+    "href": "/sprites/148-pollo-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 2.14,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_CompanyStargazer_Default_L.webp",
+    "description": "Upon earning an elimination, slowly replenish shield for you and nearby squad members for a duration. Duration increases at each Level Up: 6 Seconds -> 7 Seconds -> 8 Seconds -> 9 Seconds -> 10 Seconds",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "2.14%"
+      }
+    ],
+    "spriteType": "Pollo",
+    "sourceUrl": "https://fortnite.gg/sprites/148-pollo-sprite"
+  },
+  {
+    "id": "151",
+    "slug": "llama-sprite",
+    "name": "Llama",
+    "href": "/sprites/151-llama-sprite",
+    "rarity": "legendary",
+    "variant": "base",
+    "percentage": 4.45,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Llama_ui_L.webp",
+    "description": "Opening ammo boxes has a chance to grant a weapon upgrade. Chance increases at each Level Up: 5% -> 10% -> 15% -> 17% -> 20%",
+    "location": "Found in Relic Chests",
+    "summonCost": 4500,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "4.45%"
+      }
+    ],
+    "spriteType": "Llama",
+    "sourceUrl": "https://fortnite.gg/sprites/151-llama-sprite"
+  },
+  {
+    "id": "152",
+    "slug": "gold-llama-sprite",
+    "name": "Gold Llama",
+    "href": "/sprites/152-gold-llama-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Llama_Gold_ui_L.webp",
+    "description": "Opening ammo boxes has a chance to grant a weapon upgrade. Chance increases at each Level Up: 5% -> 10% -> 15% -> 17% -> 20%",
+    "location": "Found in Relic Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Llama",
+    "sourceUrl": "https://fortnite.gg/sprites/152-gold-llama-sprite"
+  },
+  {
+    "id": "153",
+    "slug": "gummy-llama-sprite",
+    "name": "Gummy Llama",
+    "href": "/sprites/153-gummy-llama-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.26,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Llama_Candy_ui_L.webp",
+    "description": "Opening ammo boxes has a chance to grant a weapon upgrade. Chance increases at each Level Up: 5% -> 10% -> 15% -> 17% -> 20%",
+    "location": "Found in Relic Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.26%"
+      }
+    ],
+    "spriteType": "Llama",
+    "sourceUrl": "https://fortnite.gg/sprites/153-gummy-llama-sprite"
+  },
+  {
+    "id": "154",
+    "slug": "galaxy-llama-sprite",
+    "name": "Galaxy Llama",
+    "href": "/sprites/154-galaxy-llama-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.17,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Llama_Galaxy_ui_L.webp",
+    "description": "Opening ammo boxes has a chance to grant a weapon upgrade. Chance increases at each Level Up: 5% -> 10% -> 15% -> 17% -> 20%",
+    "location": "Found in Relic Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.17%"
+      }
+    ],
+    "spriteType": "Llama",
+    "sourceUrl": "https://fortnite.gg/sprites/154-galaxy-llama-sprite"
+  },
+  {
+    "id": "155",
+    "slug": "gem-llama-sprite",
+    "name": "Gem Llama",
+    "href": "/sprites/155-gem-llama-sprite",
+    "rarity": "special",
+    "variant": "gem",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Llama_Gem_ui_L.webp",
+    "description": "Opening ammo boxes has a chance to grant a weapon upgrade. Chance increases at each Level Up: 5% -> 10% -> 15% -> 17% -> 20%",
+    "location": "Found in Relic Chests",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Llama",
+    "sourceUrl": "https://fortnite.gg/sprites/155-gem-llama-sprite"
+  },
+  {
+    "id": "156",
+    "slug": "peely-sprite",
+    "name": "Peely",
+    "href": "/sprites/156-peely-sprite",
+    "rarity": "legendary",
+    "variant": "base",
+    "percentage": 4.62,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Peely_ui_L.webp",
+    "description": "Emits a ping for players with rare sprites nearby, but marks you on the map. Ping radius increases at each Level Up: 40m -> 50m -> 60m -> 70m -> 80m",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 4500,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "4.62%"
+      }
+    ],
+    "spriteType": "Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/156-peely-sprite"
+  },
+  {
+    "id": "157",
+    "slug": "gold-peely-sprite",
+    "name": "Gold Peely",
+    "href": "/sprites/157-gold-peely-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0.43,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Peely_Gold_ui_L.webp",
+    "description": "Emits a ping for players with rare sprites nearby, but marks you on the map. Ping radius increases at each Level Up: 40m -> 50m -> 60m -> 70m -> 80m",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.43%"
+      }
+    ],
+    "spriteType": "Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/157-gold-peely-sprite"
+  },
+  {
+    "id": "158",
+    "slug": "gummy-peely-sprite",
+    "name": "Gummy Peely",
+    "href": "/sprites/158-gummy-peely-sprite",
+    "rarity": "special",
+    "variant": "candy",
+    "percentage": 0.26,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Peely_Candy_ui_L.webp",
+    "description": "Emits a ping for players with rare sprites nearby, but marks you on the map. Ping radius increases at each Level Up: 40m -> 50m -> 60m -> 70m -> 80m",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.26%"
+      }
+    ],
+    "spriteType": "Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/158-gummy-peely-sprite"
+  },
+  {
+    "id": "159",
+    "slug": "galaxy-peely-sprite",
+    "name": "Galaxy Peely",
+    "href": "/sprites/159-galaxy-peely-sprite",
+    "rarity": "special",
+    "variant": "galaxy",
+    "percentage": 0.17,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Peely_Galaxy_ui_L.webp",
+    "description": "Emits a ping for players with rare sprites nearby, but marks you on the map. Ping radius increases at each Level Up: 40m -> 50m -> 60m -> 70m -> 80m",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.17%"
+      }
+    ],
+    "spriteType": "Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/159-galaxy-peely-sprite"
+  },
+  {
+    "id": "160",
+    "slug": "holofoil-peely-sprite",
+    "name": "Holofoil Peely",
+    "href": "/sprites/160-holofoil-peely-sprite",
+    "rarity": "special",
+    "variant": "holofoil",
+    "percentage": 0.85,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Peely_Holofoil_ui_L.webp",
+    "description": "Emits a ping for players with rare sprites nearby, but marks you on the map. Ping radius increases at each Level Up: 40m -> 50m -> 60m -> 70m -> 80m",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 6750,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0.85%"
+      }
+    ],
+    "spriteType": "Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/160-holofoil-peely-sprite"
+  }
+]
