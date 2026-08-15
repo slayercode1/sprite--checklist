@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import { Grid2X2, List, RotateCcw, Search, SlidersHorizontal, X } from 'lucide-vue-next'
+import type { StatusFilter } from '../composables/useSpriteFilters'
+import { localizeSpriteName } from '../utils/spriteNames'
 
 defineProps<{
   open: boolean
   query: string
   viewMode: 'grid' | 'list'
-  status: string
+  statuses: StatusFilter[]
   rarity: string
   variant: string
   spriteType: string
@@ -20,7 +22,7 @@ const emit = defineEmits<{
   reset: []
   'update:query': [value: string]
   'update:viewMode': [value: 'grid' | 'list']
-  'update:status': [value: string]
+  'update:statuses': [value: StatusFilter[]]
   'update:rarity': [value: string]
   'update:variant': [value: string]
   'update:spriteType': [value: string]
@@ -28,12 +30,20 @@ const emit = defineEmits<{
 }>()
 
 const statusOptions = [
-  { value: 'all', label: 'Tous' },
   { value: 'owned', label: 'Possédés' },
   { value: 'unowned', label: 'Non possédés' },
   { value: 'mastered', label: 'Maîtrisés' },
   { value: 'unmastered', label: 'Non maîtrisés' },
-]
+] satisfies { value: StatusFilter; label: string }[]
+
+const oppositeStatus: Partial<Record<StatusFilter, StatusFilter>> = {
+  owned: 'unowned', unowned: 'owned', mastered: 'unmastered', unmastered: 'mastered',
+}
+
+function toggleStatus(statuses: StatusFilter[], status: StatusFilter) {
+  if (statuses.includes(status)) return statuses.filter((item) => item !== status)
+  return [...statuses.filter((item) => item !== oppositeStatus[status]), status]
+}
 </script>
 
 <template>
@@ -59,7 +69,8 @@ const statusOptions = [
 
     <fieldset class="filter-group">
       <legend>Collection</legend>
-      <button v-for="option in statusOptions" :key="option.value" type="button" class="sidebar-option" :class="{ active: status === option.value }" :aria-pressed="status === option.value" @click="emit('update:status', option.value)">
+      <button type="button" class="sidebar-option" :class="{ active: statuses.length === 0 }" :aria-pressed="statuses.length === 0" @click="emit('update:statuses', [])"><span>Tous</span><span class="option-dot" /></button>
+      <button v-for="option in statusOptions" :key="option.value" type="button" class="sidebar-option" :class="{ active: statuses.includes(option.value) }" :aria-pressed="statuses.includes(option.value)" @click="emit('update:statuses', toggleStatus(statuses, option.value))">
         <span>{{ option.label }}</span><span class="option-dot" />
       </button>
     </fieldset>
@@ -67,7 +78,7 @@ const statusOptions = [
     <div class="filter-group sidebar-selects">
       <label>Rareté<select :value="rarity" @change="emit('update:rarity', ($event.target as HTMLSelectElement).value)"><option value="all">Toutes les raretés</option><option v-for="item in rarities" :key="item">{{ item }}</option></select></label>
       <label>Variante<select :value="variant" @change="emit('update:variant', ($event.target as HTMLSelectElement).value)"><option value="all">Toutes les variantes</option><option v-for="item in variants" :key="item">{{ item }}</option></select></label>
-      <label>Type<select :value="spriteType" @change="emit('update:spriteType', ($event.target as HTMLSelectElement).value)"><option value="all">Tous les types</option><option v-for="item in spriteTypes" :key="item">{{ item }}</option></select></label>
+      <label>Type<select :value="spriteType" @change="emit('update:spriteType', ($event.target as HTMLSelectElement).value)"><option value="all">Tous les types</option><option v-for="item in spriteTypes" :key="item" :value="item">{{ localizeSpriteName(item) }}</option></select></label>
       <label>Trier par<select :value="sort" @change="emit('update:sort', ($event.target as HTMLSelectElement).value)"><option value="az">Nom A-Z</option><option value="za">Nom Z-A</option><option value="rarity">Rareté</option><option value="owned">Possédés en premier</option><option value="unowned">Non possédés en premier</option><option value="mastered">Maîtrisés en premier</option></select></label>
     </div>
 

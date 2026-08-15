@@ -30,9 +30,13 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .skip-link:focus { transform: translateY(0); }
 
 .app-header { border-bottom: 1px solid var(--line); }
-.header-content { padding-block: 24px; }
+.header-content { display: flex; align-items: end; justify-content: space-between; gap: 24px; padding-block: 24px; }
 .eyebrow { margin: 0 0 6px; color: var(--muted); font-size: .7rem; font-weight: 650; letter-spacing: .13em; text-transform: uppercase; }
 .header-title > p:last-child { margin: 0; color: var(--muted); font-size: .9rem; font-variant-numeric: tabular-nums; }
+.collection-stats { display: flex; gap: 28px; margin: 0; }
+.collection-stats > div { display: grid; gap: 3px; }
+.collection-stats dt { color: var(--muted); font-size: .65rem; font-weight: 650; letter-spacing: .07em; text-transform: uppercase; }
+.collection-stats dd { margin: 0; color: var(--text); font-size: 1.15rem; font-weight: 700; font-variant-numeric: tabular-nums; }
 .collection-page { padding-block: 26px 72px; }
 .collection-layout { display: grid; grid-template-columns: 220px minmax(0, 1fr); align-items: start; gap: clamp(28px, 4vw, 64px); }
 .collection-results { min-width: 0; }
@@ -133,7 +137,8 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 
 @media (max-width: 720px) {
   .page-shell { width: min(calc(100% - 24px), 1540px); }
-  .header-content { padding-block: 19px; }
+  .header-content { align-items: start; flex-direction: column; gap: 14px; padding-block: 19px; }
+  .collection-stats { width: 100%; justify-content: space-between; gap: 12px; }
   .collection-page { padding-top: 18px; }
   .sprite-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 10px; }
   .card-heading { display: grid; min-height: 62px; }
