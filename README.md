@@ -2,6 +2,8 @@
 
 Application Vue 3 mobile-first pour suivre les Sprites Fortnite possédés et maîtrisés. Les données publiques sont importées depuis Fortnite.gg à l'aide d'un script séparé, puis l'interface lit uniquement le JSON généré.
 
+L’interface utilise `shadcn-vue`, Tailwind CSS et les primitives accessibles Reka UI pour les boutons, champs, sélecteurs, badges et menus déroulants.
+
 ## Commandes Bun
 
 ```bash
@@ -41,7 +43,7 @@ Output Directory : dist
 ## Fonctionnalités
 
 - 117 fiches Sprite importées avec images, rareté, variante, description et informations disponibles
-- recherche tolérante, filtres combinables et tris
+- recherche tolérante, filtres combinables et tris conservés après rechargement
 - vues grille et liste mémorisées
 - états possédé et maîtrisé indépendants, sauvegardés dans `localStorage`
 - synchronisation Supabase facultative, sans compte, activée par un code secret partageable entre appareils

@@ -1,12 +1,18 @@
-import { computed, ref, type Ref } from 'vue'
+import { computed, type Ref } from 'vue'
 import type { Sprite } from '../types/sprite'
 import { rarityConfig } from '../config/rarities'
 import { normalizeText } from '../utils/text'
 import { localizeSpriteName } from '../utils/spriteNames'
+import { useLocalStorage } from './useLocalStorage'
 export type StatusFilter = 'owned' | 'unowned' | 'mastered' | 'unmastered'
 export type SortMode = 'az' | 'za' | 'rarity' | 'owned' | 'unowned' | 'mastered'
+interface SpriteFiltersState { query: string; statuses: StatusFilter[]; rarity: string; variant: string; spriteType: string; sort: SortMode }
+export const FILTERS_STORAGE_KEY = 'sprite-checklist:filters:v1'
+const defaultFilters = (): SpriteFiltersState => ({ query: '', statuses: [], rarity: 'all', variant: 'all', spriteType: 'all', sort: 'az' })
 export function useSpriteFilters(sprites: Ref<Sprite[]>, isOwned: (id: string) => boolean, isMastered: (id: string) => boolean) {
-  const query = ref(''), statuses = ref<StatusFilter[]>([]), rarity = ref('all'), variant = ref('all'), spriteType = ref('all'), sort = ref<SortMode>('az')
+  const persisted = useLocalStorage<SpriteFiltersState>(FILTERS_STORAGE_KEY, defaultFilters())
+  const field = <Key extends keyof SpriteFiltersState>(key: Key) => computed({ get: () => persisted.value[key], set: (value: SpriteFiltersState[Key]) => { persisted.value[key] = value } })
+  const query = field('query'), statuses = field('statuses'), rarity = field('rarity'), variant = field('variant'), spriteType = field('spriteType'), sort = field('sort')
   const values = (key: 'rarity' | 'variant' | 'spriteType') => computed(() => [...new Set(sprites.value.map((sprite) => sprite[key]).filter(Boolean) as string[])].sort())
   const rarities = values('rarity'), variants = values('variant'), spriteTypes = values('spriteType')
   const matchesStatuses = (sprite: Sprite) => statuses.value.every((status) => {
@@ -27,6 +33,6 @@ export function useSpriteFilters(sprites: Ref<Sprite[]>, isOwned: (id: string) =
     if (sort.value === 'mastered') return Number(isMastered(b.id)) - Number(isMastered(a.id)) || localizedA.localeCompare(localizedB, 'fr')
     return localizedA.localeCompare(localizedB, 'fr')
   }))
-  const reset = () => { query.value = ''; statuses.value = []; rarity.value = 'all'; variant.value = 'all'; spriteType.value = 'all'; sort.value = 'az' }
+  const reset = () => { persisted.value = defaultFilters() }
   return { query, statuses, rarity, variant, spriteType, sort, rarities, variants, spriteTypes, filteredSprites, reset }
 }

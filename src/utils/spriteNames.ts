@@ -1,42 +1,62 @@
 const baseNameTranslations: Record<string, string> = {
-  Air: 'Air',
+  Air: 'Esprit d’air',
   Boss: 'Boss',
-  Demon: 'Démon',
-  Dream: 'Rêve',
-  Duck: 'Canard',
-  Earth: 'Terre',
-  Fire: 'Feu',
-  Fishy: 'Poisson',
-  Ghost: 'Fantôme',
+  Demon: 'Esprit démoniaque',
+  Dream: 'Esprit onirique',
+  Duck: 'Esprit canard',
+  Earth: 'Esprit de terre',
+  Fire: 'Esprit de feu',
+  Fishy: 'Poiscaille',
+  Ghost: 'Esprit fantôme',
   Grim: 'Sinistre',
-  King: 'Roi',
+  King: 'Esprit roi',
   Llama: 'Lama',
   Peely: 'Banane',
-  Seven: 'Sept',
+  Punk: 'Esprit punk',
+  Seven: 'Les Sept',
   Striker: 'Buteur',
-  Water: 'Eau',
-  'Zero Point': 'Point zéro',
+  Water: 'Esprit d’eau',
+  'Zero Point': 'Esprit du Point zéro',
   'Burnt Peanut': 'Cacahuète grillée',
 }
 
-const variantTranslations: Record<string, string> = {
-  Cube: 'cubique',
+const nameVariantTranslations: Record<string, string> = {
+  Cube: 'du Cube',
   Galaxy: 'galactique',
-  Gem: 'précieux',
+  Gem: 'de gemme',
   Gold: 'doré',
-  Gummy: 'gélifié',
-  Holofoil: 'holographique',
+  Gummy: 'bonbon',
+  Holofoil: 'Holofoil',
   Quack: 'coin-coin',
+}
+
+const filterVariantTranslations: Record<string, string> = {
+  base: 'De base',
+  candy: 'Bonbon',
+  cube: 'Cube',
+  galaxy: 'Galactique',
+  gem: 'Gemme',
+  gold: 'Doré',
+  holofoil: 'Holofoil',
+  quack: 'Coin-coin',
+}
+
+export function localizeSpriteType(type: string): string {
+  return baseNameTranslations[type] ?? type
+}
+
+export function localizeSpriteVariant(variant: string): string {
+  return filterVariantTranslations[variant.toLocaleLowerCase()] ?? variant
 }
 
 export function localizeSpriteName(name: string): string {
   const directTranslation = baseNameTranslations[name]
   if (directTranslation) return directTranslation
 
-  const variant = Object.keys(variantTranslations).find((prefix) => name.startsWith(`${prefix} `))
+  const variant = Object.keys(nameVariantTranslations).find((prefix) => name.startsWith(`${prefix} `))
   if (!variant) return name
 
   const baseName = name.slice(variant.length + 1)
   const localizedBaseName = baseNameTranslations[baseName] ?? baseName
-  return `${localizedBaseName} ${variantTranslations[variant]}`
+  return `${localizedBaseName} ${nameVariantTranslations[variant]}`
 }
