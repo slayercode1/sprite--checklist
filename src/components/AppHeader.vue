@@ -11,6 +11,7 @@ const remaining = computed(() => Math.max(0, props.total - props.owned))
         <h1 class="eyebrow">Votre collection</h1>
         <p v-if="displayed !== total">{{ displayed }} Sprite{{ displayed > 1 ? 's' : '' }} affiché{{ displayed > 1 ? 's' : '' }} sur {{ total }}</p>
       </div>
+      <slot />
       <dl class="collection-stats" aria-label="Progression de la collection">
         <div><dt>Total</dt><dd>{{ total }}</dd></div>
         <div><dt>Possédés</dt><dd>{{ owned }}</dd></div>
