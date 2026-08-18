@@ -31,7 +31,7 @@ function importCode() {
 <template>
   <DropdownMenu>
     <DropdownMenuTrigger as-child>
-      <Button class="sync-button" :class="{ linked: syncCode }" variant="secondary" :disabled="!configured" @click="emit('sync')">
+      <Button class="sync-button" :class="{ linked: syncCode }" variant="outline" :disabled="!configured" @click="emit('sync')">
         <RefreshCw :class="{ spinning: status === 'syncing' && !syncCode }" aria-hidden="true" />{{ label }}<ChevronDown class="sync-chevron" aria-hidden="true" />
       </Button>
     </DropdownMenuTrigger>
@@ -46,7 +46,7 @@ function importCode() {
       <DropdownMenuSeparator />
       <form class="sync-form" @click.stop @keydown.stop @submit.prevent="importCode">
         <label for="sync-code">Utiliser un code existant</label>
-        <div class="sync-import"><Input id="sync-code" v-model="importedCode" autocomplete="off" placeholder="Code secret" required /><Button type="submit" variant="secondary">Importer</Button></div>
+        <div class="sync-import"><Input id="sync-code" v-model="importedCode" autocomplete="off" placeholder="Code secret" required /><Button type="submit" variant="outline">Importer</Button></div>
       </form>
       <p v-if="status === 'offline'" class="sync-message"><CloudOff />Les changements restent sur cet appareil et seront envoyés au retour du réseau.</p>
     </DropdownMenuContent>

@@ -64,7 +64,7 @@ function toggleStatus(statuses: StatusFilter[], status: StatusFilter) {
     <label class="sidebar-search">
       <Search :size="18" aria-hidden="true" />
       <span class="visually-hidden">Rechercher</span>
-      <Input :model-value="query" name="sprite-search" type="search" autocomplete="off" placeholder="Rechercher un Esprit…" class="h-auto border-0 p-0 shadow-none focus-visible:ring-0" @update:model-value="emit('update:query', String($event))" />
+      <Input :model-value="query" name="sprite-search" type="search" autocomplete="off" placeholder="Rechercher un Esprit…" class="h-10 text-xs" @update:model-value="emit('update:query', String($event))" />
     </label>
 
     <div class="sidebar-view">

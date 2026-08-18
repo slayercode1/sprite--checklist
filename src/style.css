@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
 
 :root {
   color: #202124;
@@ -79,8 +81,8 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .collection-stats > div { display: grid; gap: 3px; }
 .collection-stats dt { color: var(--muted); font-size: .65rem; font-weight: 650; letter-spacing: .07em; text-transform: uppercase; }
 .collection-stats dd { margin: 0; color: var(--text); font-size: 1.15rem; font-weight: 700; font-variant-numeric: tabular-nums; }
-.sync-button { min-height: 40px; margin-left: auto; background: var(--surface); color: var(--muted); font-size: .75rem; font-weight: 650; box-shadow: none; }
-.sync-button:hover { background: var(--surface-hover); color: var(--text); }
+.sync-button { min-height: 40px; margin-left: auto; background: #fff; color: var(--muted); font-size: .75rem; font-weight: 650; }
+.sync-button:hover { background: var(--surface); color: var(--text); }
 .sync-button.linked { background: #edf6f5; color: var(--accent); }
 .sync-button.linked:hover { background: #e3f0ee; }
 .sync-chevron { margin-left: 2px; opacity: .55; }
@@ -102,32 +104,29 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .collection-results { min-width: 0; }
 
 .filter-sidebar { position: sticky; top: 20px; }
-.filter-sidebar-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+.filter-sidebar-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 18px; }
 .filter-sidebar-header > div { display: flex; align-items: center; gap: 8px; }
-.filter-sidebar-header h2 { margin: 0; color: var(--muted); font-size: .7rem; font-weight: 650; letter-spacing: .1em; text-transform: uppercase; }
+.filter-sidebar-header h2 { margin: 0; font-size: .8rem; font-weight: 650; }
 .filter-sidebar-header svg { color: var(--muted); }
 .sidebar-close { display: none; width: 40px; height: 40px; place-items: center; border: 0; border-radius: 6px; background: transparent; cursor: pointer; }
 .sidebar-close:hover { background: var(--surface-hover); }
-.sidebar-search { display: flex; min-height: 42px; align-items: center; gap: 9px; margin-bottom: 10px; padding-inline: 10px; border-radius: 6px; background: var(--surface); color: var(--muted); }
-.sidebar-search:focus-within { background: #edf6f5; color: var(--accent); }
-.sidebar-search input { width: 100%; min-width: 0; border: 0; outline: 0; background: transparent; color: var(--text); font-size: .82rem; }
-.sidebar-view { display: flex; min-height: 44px; align-items: center; justify-content: space-between; margin-bottom: 18px; padding-inline: 10px 5px; border-radius: 6px; background: var(--surface); }
+.sidebar-search { display: flex; min-height: 42px; align-items: center; gap: 9px; margin-bottom: 18px; color: var(--muted); }
+.sidebar-search:focus-within { color: var(--accent); }
+.sidebar-view { display: flex; align-items: center; justify-content: space-between; margin-bottom: 22px; }
 .sidebar-view > span, .filter-group legend, .sidebar-selects label { color: var(--muted); font-size: .65rem; font-weight: 650; letter-spacing: .08em; text-transform: uppercase; }
 .view-switcher { display: flex; gap: 2px; }
 .view-switcher button { display: grid; width: 36px; min-height: 36px; place-items: center; border: 0; border-radius: 6px; background: transparent; color: var(--faint); cursor: pointer; }
 .view-switcher button:hover { color: var(--text); background: var(--surface-hover); }
 .view-switcher button.active { color: var(--accent); background: #edf6f5; }
-.filter-group { display: grid; gap: 2px; margin: 0 0 14px; padding: 10px; border: 0; border-radius: 6px; background: var(--surface); }
-.filter-group legend { width: calc(100% + 20px); margin: -10px -10px 4px; padding: 10px 10px 6px; background: #fff; }
+.filter-group { display: grid; gap: 2px; margin: 0 0 24px; padding: 0; border: 0; }
+.filter-group legend { margin-bottom: 8px; }
 .sidebar-option { display: flex; min-height: 40px; align-items: center; justify-content: space-between; padding: 0 8px; border: 0; border-radius: 6px; background: transparent; color: var(--muted); cursor: pointer; text-align: left; }
-.sidebar-option:hover { color: var(--text); background: #fff; }
+.sidebar-option:hover { color: var(--text); background: var(--surface-hover); }
 .sidebar-option.active { background: #edf6f5; color: var(--accent); font-weight: 600; }
 .option-dot { width: 6px; height: 6px; border-radius: 50%; background: transparent; }
 .sidebar-option.active .option-dot { background: var(--accent); }
-.sidebar-selects { gap: 14px; padding-block: 12px; }
+.sidebar-selects { gap: 16px; }
 .sidebar-selects label { display: grid; gap: 6px; }
-.sidebar-selects select { width: 100%; min-height: 38px; padding: 0 8px; border: 1px solid transparent; border-radius: 6px; background: #fff; color: var(--text); font-size: .78rem; text-transform: none; }
-.sidebar-selects select:hover { border-color: var(--faint); }
 .reset-filters { display: flex; min-height: 40px; align-items: center; gap: 7px; padding: 0 10px; border: 0; border-radius: 6px; background: transparent; color: var(--muted); cursor: pointer; font-size: .75rem; }
 .reset-filters:hover { color: var(--text); background: var(--surface-hover); }
 .mobile-filter-button, .sidebar-backdrop { display: none; }
