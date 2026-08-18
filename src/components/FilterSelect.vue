@@ -7,7 +7,7 @@ const emit = defineEmits<{ 'update:modelValue': [value: string] }>()
 
 <template>
   <Select :model-value="modelValue" @update:model-value="emit('update:modelValue', String($event))">
-    <SelectTrigger class="w-full bg-background text-xs"><SelectValue :placeholder="placeholder" /></SelectTrigger>
-    <SelectContent><SelectItem v-for="option in options" :key="option.value" :value="option.value">{{ option.label }}</SelectItem></SelectContent>
+    <SelectTrigger class="filter-select-trigger"><SelectValue :placeholder="placeholder" /></SelectTrigger>
+    <SelectContent class="filter-select-content"><SelectItem v-for="option in options" :key="option.value" :value="option.value">{{ option.label }}</SelectItem></SelectContent>
   </Select>
 </template>
