@@ -4,11 +4,16 @@ import { Check, CloudOff, Copy, RefreshCw, X } from 'lucide-vue-next'
 import type { SyncStatus } from '../composables/useCollectionSync'
 
 const props = defineProps<{ status: SyncStatus; configured: boolean; syncCode: string }>()
-const emit = defineEmits<{ sync: []; importCode: [code: string] }>()
+const emit = defineEmits<{ sync: []; importCode: [code: string]; removeCode: [] }>()
 const open = ref(false)
 const importedCode = ref('')
 const copied = ref(false)
-const label = computed(() => ({ disabled: 'Activer la sync', idle: 'Synchroniser', syncing: 'Synchronisation…', offline: 'Hors ligne', synced: 'Synchronisé', conflict: 'Données récupérées', error: 'Réessayer' })[props.status])
+const label = computed(() => {
+  if (props.status === 'syncing') return 'Synchronisation…'
+  if (props.status === 'offline' && props.syncCode) return 'Sync hors ligne'
+  if (props.syncCode) return props.status === 'error' ? 'Erreur sync' : 'Sync activée'
+  return 'Activer la sync'
+})
 
 async function copyCode() {
   await navigator.clipboard.writeText(props.syncCode)
@@ -34,6 +39,7 @@ function importCode() {
       <template v-else-if="syncCode">
         <p>Gardez ce code secret. Saisissez-le sur un autre appareil pour retrouver la même collection.</p>
         <div class="sync-code"><code>{{ syncCode }}</code><button type="button" :aria-label="copied ? 'Code copié' : 'Copier le code'" @click="copyCode"><Check v-if="copied" :size="16" /><Copy v-else :size="16" /></button></div>
+        <button class="sync-remove-button" type="button" @click="emit('removeCode')">Retirer ce code de l’appareil</button>
       </template>
       <form @submit.prevent="importCode">
         <label for="sync-code">Utiliser un code existant</label>

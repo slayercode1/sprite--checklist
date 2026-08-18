@@ -55,6 +55,8 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .sync-import { display: flex; gap: 6px; }
 .sync-import input { min-width: 0; flex: 1; padding-inline: 9px; border: 1px solid var(--line); border-radius: 6px; }
 .sync-import button { min-height: 38px; padding-inline: 10px; border: 0; border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
+.sync-remove-button { min-height: 38px; border: 1px solid #ead9d9; border-radius: 6px; background: #fffafa; color: #8b3d3d; cursor: pointer; }
+.sync-remove-button:hover { background: #fbeeee; }
 .sync-message { display: flex; align-items: center; gap: 6px; }
 @keyframes spin { to { transform: rotate(360deg); } }
 .collection-page { padding-block: 26px 72px; }

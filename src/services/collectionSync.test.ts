@@ -1,5 +1,5 @@
 import { beforeEach, describe, expect, it } from 'vitest'
-import { createSyncCredentials, decodeSyncCode, encodeSyncCode, readSyncCredentials, storeSyncCredentials } from './collectionSync'
+import { clearSyncCredentials, createSyncCredentials, decodeSyncCode, encodeSyncCode, readSyncCredentials, storeSyncCredentials } from './collectionSync'
 
 describe('code de synchronisation', () => {
   beforeEach(() => localStorage.clear())
@@ -21,5 +21,12 @@ describe('code de synchronisation', () => {
     storeSyncCredentials(credentials)
 
     expect(readSyncCredentials()).toEqual(credentials)
+  })
+
+  it('retire le code de cet appareil', () => {
+    storeSyncCredentials(createSyncCredentials())
+    clearSyncCredentials()
+
+    expect(readSyncCredentials()).toBeUndefined()
   })
 })

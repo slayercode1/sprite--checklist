@@ -69,8 +69,11 @@ Les migrations présentes dans `supabase/migrations/` créent :
 
 1. Le premier clic sur **Activer la sync** génère localement un identifiant et un secret aléatoire de 256 bits.
 2. La collection courante est enregistrée dans Supabase.
-3. Les modifications suivantes restent immédiatement écrites dans `localStorage`, puis sont envoyées à Supabase lorsque le réseau est disponible.
+3. Les modifications suivantes restent immédiatement écrites dans `localStorage`, puis sont envoyées à Supabase lorsque le réseau est disponible, y compris depuis une fiche détail.
 4. Sur un autre appareil, ouvrir les paramètres de synchronisation et importer le même code secret pour récupérer la collection.
+5. Une fois reliée, l’application récupère automatiquement les données au démarrage, au retour sur l’onglet, au retour du réseau et toutes les 30 secondes lorsque l’onglet est visible.
+
+Le bouton affiche **Sync activée** tant qu’un code est relié. L’action **Retirer ce code de l’appareil** déconnecte uniquement le navigateur courant, sans effacer la collection locale ni les données distantes ; un autre code peut ensuite être importé.
 
 Il n’existe aucun compte utilisateur, écran de connexion, e-mail ou mot de passe. Le code de synchronisation tient lieu de clé d’accès aux données : toute personne qui le possède peut lire et modifier la collection associée. Il doit donc rester privé et être conservé dans un endroit sûr. Supprimer les données du navigateur sans avoir sauvegardé ce code rend l’espace distant irrécupérable.
 

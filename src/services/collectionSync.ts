@@ -43,6 +43,10 @@ export function storeSyncCredentials(credentials: SyncCredentials): void {
   localStorage.setItem(SYNC_CREDENTIALS_STORAGE_KEY, JSON.stringify(credentials))
 }
 
+export function clearSyncCredentials(): void {
+  localStorage.removeItem(SYNC_CREDENTIALS_STORAGE_KEY)
+}
+
 export async function syncCollection(collection: UserCollection, credentials: SyncCredentials): Promise<SyncResult> {
   if (!supabase) throw new Error('Supabase n’est pas configuré')
   const { data, error } = await supabase.rpc('sync_sprite_collection', {
@@ -57,6 +61,5 @@ export async function syncCollection(collection: UserCollection, credentials: Sy
     throw new Error('Réponse de synchronisation invalide')
   }
   const nextCredentials = { ...credentials, updatedAt: row.updated_at }
-  storeSyncCredentials(nextCredentials)
   return { collection: row.collection, credentials: nextCredentials, conflict: Boolean(row.conflict) }
 }
