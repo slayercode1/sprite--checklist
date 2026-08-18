@@ -37,26 +37,34 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .collection-stats > div { display: grid; gap: 3px; }
 .collection-stats dt { color: var(--muted); font-size: .65rem; font-weight: 650; letter-spacing: .07em; text-transform: uppercase; }
 .collection-stats dd { margin: 0; color: var(--text); font-size: 1.15rem; font-weight: 700; font-variant-numeric: tabular-nums; }
-.sync-control { position: relative; display: flex; margin-left: auto; }
-.sync-button, .sync-settings-button { min-height: 38px; border: 1px solid var(--line); background: #fff; cursor: pointer; }
-.sync-button { display: flex; align-items: center; gap: 7px; padding-inline: 11px; border-radius: 6px 0 0 6px; color: var(--muted); font-size: .75rem; font-weight: 650; }
-.sync-settings-button { width: 34px; border-left: 0; border-radius: 0 6px 6px 0; color: var(--muted); letter-spacing: 1px; }
-.sync-button:hover, .sync-settings-button:hover { color: var(--text); background: var(--surface); }
+.sync-control { position: relative; display: flex; margin-left: auto; border-radius: 6px; background: var(--surface); }
+.sync-button, .sync-settings-button { min-height: 40px; border: 0; background: transparent; color: var(--muted); cursor: pointer; }
+.sync-button { display: flex; align-items: center; gap: 8px; padding-inline: 12px; border-radius: 6px 0 0 6px; font-size: .75rem; font-weight: 650; }
+.sync-settings-button { width: 38px; border-left: 1px solid var(--line); border-radius: 0 6px 6px 0; color: var(--faint); letter-spacing: 1px; }
+.sync-button:hover, .sync-settings-button:hover { color: var(--text); background: var(--surface-hover); }
+.sync-control.linked .sync-button { background: #edf6f5; color: var(--accent); }
+.sync-control.linked .sync-button:hover { background: #e3f0ee; }
 .sync-button:disabled, .sync-settings-button:disabled { cursor: not-allowed; opacity: .55; }
 .spinning { animation: spin 900ms linear infinite; }
-.sync-popover { position: absolute; z-index: 30; top: calc(100% + 9px); right: 0; display: grid; width: min(390px, calc(100vw - 24px)); gap: 14px; padding: 16px; border: 1px solid var(--line); border-radius: 8px; background: #fff; box-shadow: 0 16px 50px rgba(20, 21, 24, .14); }
+.sync-popover { position: absolute; z-index: 30; top: calc(100% + 10px); right: 0; display: grid; width: min(390px, calc(100vw - 24px)); gap: 18px; padding: 18px; border: 1px solid var(--line); border-radius: 8px; background: #fff; box-shadow: 0 16px 50px rgba(20, 21, 24, .11); }
 .sync-popover-heading { display: flex; align-items: center; justify-content: space-between; }
-.sync-popover-heading button, .sync-code button { display: grid; width: 34px; height: 34px; place-items: center; border: 0; border-radius: 5px; background: transparent; cursor: pointer; }
+.sync-popover-heading > div { display: grid; gap: 2px; }
+.sync-popover-heading .eyebrow { margin: 0; }
+.sync-popover-heading strong { font-size: .88rem; font-weight: 650; }
+.sync-popover-heading button, .sync-code button { display: grid; width: 36px; height: 36px; place-items: center; border: 0; border-radius: 6px; background: transparent; color: var(--muted); cursor: pointer; }
+.sync-popover-heading button:hover, .sync-code button:hover { background: var(--surface-hover); color: var(--text); }
 .sync-popover p { margin: 0; color: var(--muted); font-size: .78rem; line-height: 1.45; }
-.sync-code { display: flex; min-width: 0; align-items: center; gap: 5px; padding: 5px 5px 5px 9px; border: 1px solid var(--line); border-radius: 6px; }
+.sync-code { display: flex; min-width: 0; align-items: center; gap: 5px; padding: 4px 4px 4px 10px; border: 0; border-radius: 6px; background: var(--surface); }
 .sync-code code { min-width: 0; overflow: hidden; font-size: .7rem; text-overflow: ellipsis; white-space: nowrap; }
-.sync-popover form { display: grid; gap: 6px; }
-.sync-popover label { color: var(--muted); font-size: .68rem; font-weight: 650; text-transform: uppercase; }
+.sync-popover form { display: grid; gap: 8px; padding-top: 16px; border-top: 1px solid var(--line); }
+.sync-popover label { color: var(--muted); font-size: .65rem; font-weight: 650; letter-spacing: .08em; text-transform: uppercase; }
 .sync-import { display: flex; gap: 6px; }
-.sync-import input { min-width: 0; flex: 1; padding-inline: 9px; border: 1px solid var(--line); border-radius: 6px; }
-.sync-import button { min-height: 38px; padding-inline: 10px; border: 0; border-radius: 6px; background: var(--accent); color: #fff; cursor: pointer; }
-.sync-remove-button { min-height: 38px; border: 1px solid #ead9d9; border-radius: 6px; background: #fffafa; color: #8b3d3d; cursor: pointer; }
-.sync-remove-button:hover { background: #fbeeee; }
+.sync-import input { min-width: 0; min-height: 40px; flex: 1; padding-inline: 9px; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; background: transparent; color: var(--text); }
+.sync-import input:focus { border-color: var(--accent); outline: 0; }
+.sync-import button { min-height: 40px; padding-inline: 13px; border: 0; border-radius: 6px; background: var(--surface); color: var(--text); font-size: .75rem; font-weight: 650; cursor: pointer; }
+.sync-import button:hover { background: var(--surface-hover); }
+.sync-remove-button { min-height: 38px; padding-inline: 8px; border: 0; border-radius: 6px; background: transparent; color: var(--muted); cursor: pointer; font-size: .72rem; text-align: left; }
+.sync-remove-button:hover { background: var(--surface-hover); color: #8b3d3d; }
 .sync-message { display: flex; align-items: center; gap: 6px; }
 @keyframes spin { to { transform: rotate(360deg); } }
 .collection-page { padding-block: 26px 72px; }
