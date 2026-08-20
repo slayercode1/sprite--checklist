@@ -1,5 +1,794 @@
 [
   {
+    "id": "161",
+    "slug": "jackrabbit-sprite",
+    "name": "Jackrabbit",
+    "href": "/sprites/161-jackrabbit-sprite",
+    "rarity": "legendary",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_JazzJackrabbit_L.webp",
+    "description": "Grants the ability to perform another jump while mid-air! Cooldown between jumps decreases with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Jackrabbit",
+    "sourceUrl": "https://fortnite.gg/sprites/161-jackrabbit-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "162",
+    "slug": "gold-jackrabbit-sprite",
+    "name": "Gold Jackrabbit",
+    "href": "/sprites/162-gold-jackrabbit-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_JazzJackrabbit_Gold_L.webp",
+    "description": "Grants the ability to perform another jump while mid-air! Cooldown between jumps decreases with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Jackrabbit",
+    "sourceUrl": "https://fortnite.gg/sprites/162-gold-jackrabbit-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "163",
+    "slug": "cheat-master-jackrabbit-sprite",
+    "name": "Cheat Master Jackrabbit",
+    "href": "/sprites/163-cheat-master-jackrabbit-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_JazzJackrabbit_Cheatmaster_L.webp",
+    "description": "Grants the ability to perform another jump while mid-air! Cooldown between jumps decreases with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Jackrabbit",
+    "sourceUrl": "https://fortnite.gg/sprites/163-cheat-master-jackrabbit-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "164",
+    "slug": "shadow-sprite",
+    "name": "Shadow",
+    "href": "/sprites/164-shadow-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Scribe_L.webp",
+    "description": "Automatically reload unequipped weapons over time. Reloads equipped weapon at max level. Automatic reload gets faster with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Shadow",
+    "sourceUrl": "https://fortnite.gg/sprites/164-shadow-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "165",
+    "slug": "cheat-master-shadow-sprite",
+    "name": "Cheat Master Shadow",
+    "href": "/sprites/165-cheat-master-shadow-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Scribe_Cheatmaster_L.webp",
+    "description": "Automatically reload unequipped weapons over time. Reloads equipped weapon at max level. Automatic reload gets faster with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Shadow",
+    "sourceUrl": "https://fortnite.gg/sprites/165-cheat-master-shadow-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "166",
+    "slug": "gold-shadow-sprite",
+    "name": "Gold Shadow",
+    "href": "/sprites/166-gold-shadow-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Scribe_Gold_L.webp",
+    "description": "Automatically reload unequipped weapons over time. Reloads equipped weapon at max level. Automatic reload gets faster with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Shadow",
+    "sourceUrl": "https://fortnite.gg/sprites/166-gold-shadow-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "167",
+    "slug": "bush-sprite",
+    "name": "Bush",
+    "href": "/sprites/167-bush-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_BushRanger_L.webp",
+    "description": "Grants a bush on you after a duration, gain a bush on elimination at max level. Time between bush activating decreases with each Level Up!",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Bush",
+    "sourceUrl": "https://fortnite.gg/sprites/167-bush-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "168",
+    "slug": "cheat-master-bush-sprite",
+    "name": "Cheat Master Bush",
+    "href": "/sprites/168-cheat-master-bush-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_BushRanger_Cheatmaster_L.webp",
+    "description": "Grants a bush on you after a duration, gain a bush on elimination at max level. Time between bush activating decreases with each Level Up!",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Bush",
+    "sourceUrl": "https://fortnite.gg/sprites/168-cheat-master-bush-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "169",
+    "slug": "gold-bush-sprite",
+    "name": "Gold Bush",
+    "href": "/sprites/169-gold-bush-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_BushRanger_Gold_L.webp",
+    "description": "Grants a bush on you after a duration, gain a bush on elimination at max level. Time between bush activating decreases with each Level Up!",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Bush",
+    "sourceUrl": "https://fortnite.gg/sprites/169-gold-bush-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "170",
+    "slug": "tails-sprite",
+    "name": "Tails",
+    "href": "/sprites/170-tails-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Monkey_L.webp",
+    "description": "Grants the ability to hover with the Help of Tails! Hover speed increased with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Tails",
+    "sourceUrl": "https://fortnite.gg/sprites/170-tails-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "171",
+    "slug": "cheat-master-tails-sprite",
+    "name": "Cheat Master Tails",
+    "href": "/sprites/171-cheat-master-tails-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Monkey_Cheatmaster_L.webp",
+    "description": "Grants the ability to hover with the Help of Tails! Hover speed increased with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Tails",
+    "sourceUrl": "https://fortnite.gg/sprites/171-cheat-master-tails-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "172",
+    "slug": "gold-tails-sprite",
+    "name": "Gold Tails",
+    "href": "/sprites/172-gold-tails-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Monkey_Gold_L.webp",
+    "description": "Grants the ability to hover with the Help of Tails! Hover speed increased with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Tails",
+    "sourceUrl": "https://fortnite.gg/sprites/172-gold-tails-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "173",
+    "slug": "killswitch-sprite",
+    "name": "Killswitch",
+    "href": "/sprites/173-killswitch-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Killswitch_L.webp",
+    "description": "Enter Hangtime with improved accuracy when aiming while jumping and falling. Accuracy increases with each Level Up!",
+    "location": "Found in the world at nighttime",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Killswitch",
+    "sourceUrl": "https://fortnite.gg/sprites/173-killswitch-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "174",
+    "slug": "cheat-master-killswitch-sprite",
+    "name": "Cheat Master Killswitch",
+    "href": "/sprites/174-cheat-master-killswitch-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Killswitch_Cheatmaster_L.webp",
+    "description": "Enter Hangtime with improved accuracy when aiming while jumping and falling. Accuracy increases with each Level Up!",
+    "location": "Found in the world at nighttime",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Killswitch",
+    "sourceUrl": "https://fortnite.gg/sprites/174-cheat-master-killswitch-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "175",
+    "slug": "gold-killswitch-sprite",
+    "name": "Gold Killswitch",
+    "href": "/sprites/175-gold-killswitch-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Killswitch_Gold_L.webp",
+    "description": "Enter Hangtime with improved accuracy when aiming while jumping and falling. Accuracy increases with each Level Up!",
+    "location": "Found in the world at nighttime",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Killswitch",
+    "sourceUrl": "https://fortnite.gg/sprites/175-gold-killswitch-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "176",
+    "slug": "adventure-sprite",
+    "name": "Adventure",
+    "href": "/sprites/176-adventure-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Dwarf_L.webp",
+    "description": "Upgrades a random item in the player's inventory with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Adventure",
+    "sourceUrl": "https://fortnite.gg/sprites/176-adventure-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "177",
+    "slug": "cheat-master-adventure-sprite",
+    "name": "Cheat Master Adventure",
+    "href": "/sprites/177-cheat-master-adventure-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Dwarf_Cheatmaster_L.webp",
+    "description": "Upgrades a random item in the player's inventory with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Adventure",
+    "sourceUrl": "https://fortnite.gg/sprites/177-cheat-master-adventure-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "178",
+    "slug": "gold-adventure-sprite",
+    "name": "Gold Adventure",
+    "href": "/sprites/178-gold-adventure-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Dwarf_Gold_L.webp",
+    "description": "Upgrades a random item in the player's inventory with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Adventure",
+    "sourceUrl": "https://fortnite.gg/sprites/178-gold-adventure-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "179",
+    "slug": "klombo-sprite",
+    "name": "Klombo",
+    "href": "/sprites/179-klombo-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Klombo_L.webp",
+    "description": "Grants random items at each level, only levels up by consuming items. Item quality increases with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Klombo",
+    "sourceUrl": "https://fortnite.gg/sprites/179-klombo-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "180",
+    "slug": "cheat-master-klombo-sprite",
+    "name": "Cheat Master Klombo",
+    "href": "/sprites/180-cheat-master-klombo-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Klombo_Cheatmaster_L.webp",
+    "description": "Grants random items at each level, only levels up by consuming items. Item quality increases with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Klombo",
+    "sourceUrl": "https://fortnite.gg/sprites/180-cheat-master-klombo-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "181",
+    "slug": "gold-klombo-sprite",
+    "name": "Gold Klombo",
+    "href": "/sprites/181-gold-klombo-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Klombo_Gold_L.webp",
+    "description": "Grants random items at each level, only levels up by consuming items. Item quality increases with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Klombo",
+    "sourceUrl": "https://fortnite.gg/sprites/181-gold-klombo-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "182",
+    "slug": "jonesy-sprite",
+    "name": "Jonesy",
+    "href": "/sprites/182-jonesy-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Jonesy_L.webp",
+    "description": "Recover some health or shields after being damaged after a short duration. Increase amount healed with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Jonesy",
+    "sourceUrl": "https://fortnite.gg/sprites/182-jonesy-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "183",
+    "slug": "cheat-master-jonesy-sprite",
+    "name": "Cheat Master Jonesy",
+    "href": "/sprites/183-cheat-master-jonesy-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Jonesy_Cheatmaster_L.webp",
+    "description": "Recover some health or shields after being damaged after a short duration. Increase amount healed with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Jonesy",
+    "sourceUrl": "https://fortnite.gg/sprites/183-cheat-master-jonesy-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "184",
+    "slug": "gold-jonesy-sprite",
+    "name": "Gold Jonesy",
+    "href": "/sprites/184-gold-jonesy-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Jonesy_Gold_L.webp",
+    "description": "Recover some health or shields after being damaged after a short duration. Increase amount healed with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Jonesy",
+    "sourceUrl": "https://fortnite.gg/sprites/184-gold-jonesy-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "185",
+    "slug": "sonic-sprite",
+    "name": "Sonic",
+    "href": "/sprites/185-sonic-sprite",
+    "rarity": "epic",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Obsidian_L.webp",
+    "description": "Gotta Go Fast! Sprint faster with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Sonic",
+    "sourceUrl": "https://fortnite.gg/sprites/185-sonic-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "186",
+    "slug": "cheat-master-sonic-sprite",
+    "name": "Cheat Master Sonic",
+    "href": "/sprites/186-cheat-master-sonic-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Obsidian_Cheatmaster_L.webp",
+    "description": "Gotta Go Fast! Sprint faster with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Sonic",
+    "sourceUrl": "https://fortnite.gg/sprites/186-cheat-master-sonic-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "187",
+    "slug": "gold-sonic-sprite",
+    "name": "Gold Sonic",
+    "href": "/sprites/187-gold-sonic-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_NarrowFlea_Obsidian_Gold_L.webp",
+    "description": "Gotta Go Fast! Sprint faster with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Sonic",
+    "sourceUrl": "https://fortnite.gg/sprites/187-gold-sonic-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "188",
+    "slug": "crown-sprite",
+    "name": "Crown",
+    "href": "/sprites/188-crown-sprite",
+    "rarity": "mythic",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Crown_L.webp",
+    "description": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Crown",
+    "sourceUrl": "https://fortnite.gg/sprites/188-crown-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "189",
+    "slug": "cheat-master-crown-sprite",
+    "name": "Cheat Master Crown",
+    "href": "/sprites/189-cheat-master-crown-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Crown_Cheatmaster_L.webp",
+    "description": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Crown",
+    "sourceUrl": "https://fortnite.gg/sprites/189-cheat-master-crown-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "190",
+    "slug": "gold-crown-sprite",
+    "name": "Gold Crown",
+    "href": "/sprites/190-gold-crown-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_Crown_Gold_L.webp",
+    "description": "Only levels up by winning matches. Level up faster with Crown Wins. New variants unlocked after mastering!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Crown",
+    "sourceUrl": "https://fortnite.gg/sprites/190-gold-crown-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "191",
+    "slug": "8-bit-sprite",
+    "name": "8-Bit",
+    "href": "/sprites/191-8-bit-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_EightBitBlaster_L.webp",
+    "description": "Find an 8-Bit Shotgun in your first chest and gain a score multiplier for it.",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "8-Bit",
+    "sourceUrl": "https://fortnite.gg/sprites/191-8-bit-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "192",
+    "slug": "cheat-master-8-bit-sprite",
+    "name": "Cheat Master 8-Bit",
+    "href": "/sprites/192-cheat-master-8-bit-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_EightBitBlaster_Cheatmaster_L.webp",
+    "description": "Find an 8-Bit Shotgun in your first chest and gain a score multiplier for it.",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master 8-Bit",
+    "sourceUrl": "https://fortnite.gg/sprites/192-cheat-master-8-bit-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "193",
+    "slug": "gold-8-bit-sprite",
+    "name": "Gold 8-Bit",
+    "href": "/sprites/193-gold-8-bit-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_EightBitBlaster_Gold_L.webp",
+    "description": "Find an 8-Bit Shotgun in your first chest and gain a score multiplier for it.",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "8-Bit",
+    "sourceUrl": "https://fortnite.gg/sprites/193-gold-8-bit-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "194",
+    "slug": "storm-scout-sprite",
+    "name": "Storm Scout",
+    "href": "/sprites/194-storm-scout-sprite",
+    "rarity": "rare",
+    "variant": "base",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_StormScout_L.webp",
+    "description": "Applies Overdrive after taking a certain amount of storm damage. Reveals future Storm Circles at max level. Reduces damage to trigger overdrive with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Storm Scout",
+    "sourceUrl": "https://fortnite.gg/sprites/194-storm-scout-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "195",
+    "slug": "cheat-master-storm-scout-sprite",
+    "name": "Cheat Master Storm Scout",
+    "href": "/sprites/195-cheat-master-storm-scout-sprite",
+    "rarity": "special",
+    "variant": "cheatmaster",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_StormScout_Cheatmaster_L.webp",
+    "description": "Applies Overdrive after taking a certain amount of storm damage. Reveals future Storm Circles at max level. Reduces damage to trigger overdrive with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Cheat Master Storm Scout",
+    "sourceUrl": "https://fortnite.gg/sprites/195-cheat-master-storm-scout-sprite",
+    "releaseStatus": "new"
+  },
+  {
+    "id": "196",
+    "slug": "gold-storm-scout-sprite",
+    "name": "Gold Storm Scout",
+    "href": "/sprites/196-gold-storm-scout-sprite",
+    "rarity": "special",
+    "variant": "gold",
+    "percentage": 0,
+    "image": "https://fortnite.gg/img/x/sprites/icons/T_Icon_BR_Creature_Sprite_StormScout_Gold_L.webp",
+    "description": "Applies Overdrive after taking a certain amount of storm damage. Reveals future Storm Circles at max level. Reduces damage to trigger overdrive with each Level Up!",
+    "location": "Spotted near high and mountainous areas",
+    "summonCost": 0,
+    "dropChances": [
+      {
+        "source": "Sprite Chest",
+        "chance": "0%"
+      }
+    ],
+    "spriteType": "Storm Scout",
+    "sourceUrl": "https://fortnite.gg/sprites/196-gold-storm-scout-sprite",
+    "releaseStatus": "new"
+  },
+  {
     "id": "138",
     "slug": "john-wick-sprite",
     "name": "John Wick",
@@ -18,7 +807,8 @@
       }
     ],
     "spriteType": "John Wick",
-    "sourceUrl": "https://fortnite.gg/sprites/138-john-wick-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/138-john-wick-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "139",
@@ -39,7 +829,8 @@
       }
     ],
     "spriteType": "Batman",
-    "sourceUrl": "https://fortnite.gg/sprites/139-batman-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/139-batman-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "146",
@@ -60,7 +851,8 @@
       }
     ],
     "spriteType": "Batman",
-    "sourceUrl": "https://fortnite.gg/sprites/146-cube-batman-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/146-cube-batman-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "140",
@@ -81,7 +873,8 @@
       }
     ],
     "spriteType": "Batman",
-    "sourceUrl": "https://fortnite.gg/sprites/140-gold-batman-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/140-gold-batman-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "141",
@@ -102,7 +895,8 @@
       }
     ],
     "spriteType": "Batman",
-    "sourceUrl": "https://fortnite.gg/sprites/141-gummy-batman-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/141-gummy-batman-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "142",
@@ -123,7 +917,8 @@
       }
     ],
     "spriteType": "Batman",
-    "sourceUrl": "https://fortnite.gg/sprites/142-galaxy-batman-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/142-galaxy-batman-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "145",
@@ -144,7 +939,8 @@
       }
     ],
     "spriteType": "Batman",
-    "sourceUrl": "https://fortnite.gg/sprites/145-holofoil-batman-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/145-holofoil-batman-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "1",
@@ -165,7 +961,8 @@
       }
     ],
     "spriteType": "Water",
-    "sourceUrl": "https://fortnite.gg/sprites/1-water-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/1-water-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "4",
@@ -186,7 +983,8 @@
       }
     ],
     "spriteType": "Water",
-    "sourceUrl": "https://fortnite.gg/sprites/4-gold-water-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/4-gold-water-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "84",
@@ -207,7 +1005,8 @@
       }
     ],
     "spriteType": "Water",
-    "sourceUrl": "https://fortnite.gg/sprites/84-quack-water-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/84-quack-water-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "2",
@@ -228,7 +1027,8 @@
       }
     ],
     "spriteType": "Water",
-    "sourceUrl": "https://fortnite.gg/sprites/2-gummy-water-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/2-gummy-water-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "3",
@@ -249,7 +1049,8 @@
       }
     ],
     "spriteType": "Water",
-    "sourceUrl": "https://fortnite.gg/sprites/3-galaxy-water-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/3-galaxy-water-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "76",
@@ -270,7 +1071,8 @@
       }
     ],
     "spriteType": "Water",
-    "sourceUrl": "https://fortnite.gg/sprites/76-gem-water-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/76-gem-water-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "43",
@@ -291,7 +1093,8 @@
       }
     ],
     "spriteType": "Water",
-    "sourceUrl": "https://fortnite.gg/sprites/43-holofoil-water-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/43-holofoil-water-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "5",
@@ -312,7 +1115,8 @@
       }
     ],
     "spriteType": "Earth",
-    "sourceUrl": "https://fortnite.gg/sprites/5-earth-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/5-earth-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "86",
@@ -333,7 +1137,8 @@
       }
     ],
     "spriteType": "Earth",
-    "sourceUrl": "https://fortnite.gg/sprites/86-cube-earth-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/86-cube-earth-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "8",
@@ -354,7 +1159,8 @@
       }
     ],
     "spriteType": "Earth",
-    "sourceUrl": "https://fortnite.gg/sprites/8-gold-earth-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/8-gold-earth-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "87",
@@ -375,7 +1181,8 @@
       }
     ],
     "spriteType": "Earth",
-    "sourceUrl": "https://fortnite.gg/sprites/87-quack-earth-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/87-quack-earth-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "6",
@@ -396,7 +1203,8 @@
       }
     ],
     "spriteType": "Earth",
-    "sourceUrl": "https://fortnite.gg/sprites/6-gummy-earth-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/6-gummy-earth-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "7",
@@ -417,7 +1225,8 @@
       }
     ],
     "spriteType": "Earth",
-    "sourceUrl": "https://fortnite.gg/sprites/7-galaxy-earth-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/7-galaxy-earth-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "45",
@@ -438,7 +1247,8 @@
       }
     ],
     "spriteType": "Earth",
-    "sourceUrl": "https://fortnite.gg/sprites/45-gem-earth-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/45-gem-earth-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "9",
@@ -459,7 +1269,8 @@
       }
     ],
     "spriteType": "Fire",
-    "sourceUrl": "https://fortnite.gg/sprites/9-fire-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/9-fire-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "89",
@@ -480,7 +1291,8 @@
       }
     ],
     "spriteType": "Fire",
-    "sourceUrl": "https://fortnite.gg/sprites/89-cube-fire-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/89-cube-fire-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "12",
@@ -501,7 +1313,8 @@
       }
     ],
     "spriteType": "Fire",
-    "sourceUrl": "https://fortnite.gg/sprites/12-gold-fire-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/12-gold-fire-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "90",
@@ -522,7 +1335,8 @@
       }
     ],
     "spriteType": "Fire",
-    "sourceUrl": "https://fortnite.gg/sprites/90-quack-fire-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/90-quack-fire-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "10",
@@ -543,7 +1357,8 @@
       }
     ],
     "spriteType": "Fire",
-    "sourceUrl": "https://fortnite.gg/sprites/10-gummy-fire-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/10-gummy-fire-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "11",
@@ -564,7 +1379,8 @@
       }
     ],
     "spriteType": "Fire",
-    "sourceUrl": "https://fortnite.gg/sprites/11-galaxy-fire-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/11-galaxy-fire-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "46",
@@ -585,7 +1401,8 @@
       }
     ],
     "spriteType": "Fire",
-    "sourceUrl": "https://fortnite.gg/sprites/46-holofoil-fire-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/46-holofoil-fire-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "13",
@@ -606,7 +1423,8 @@
       }
     ],
     "spriteType": "Duck",
-    "sourceUrl": "https://fortnite.gg/sprites/13-duck-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/13-duck-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "16",
@@ -627,7 +1445,8 @@
       }
     ],
     "spriteType": "Duck",
-    "sourceUrl": "https://fortnite.gg/sprites/16-gold-duck-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/16-gold-duck-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "14",
@@ -648,7 +1467,8 @@
       }
     ],
     "spriteType": "Duck",
-    "sourceUrl": "https://fortnite.gg/sprites/14-gummy-duck-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/14-gummy-duck-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "15",
@@ -669,7 +1489,8 @@
       }
     ],
     "spriteType": "Duck",
-    "sourceUrl": "https://fortnite.gg/sprites/15-galaxy-duck-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/15-galaxy-duck-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "44",
@@ -690,7 +1511,8 @@
       }
     ],
     "spriteType": "Duck",
-    "sourceUrl": "https://fortnite.gg/sprites/44-gem-duck-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/44-gem-duck-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "17",
@@ -711,7 +1533,8 @@
       }
     ],
     "spriteType": "Ghost",
-    "sourceUrl": "https://fortnite.gg/sprites/17-ghost-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/17-ghost-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "20",
@@ -732,7 +1555,8 @@
       }
     ],
     "spriteType": "Ghost",
-    "sourceUrl": "https://fortnite.gg/sprites/20-gold-ghost-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/20-gold-ghost-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "18",
@@ -753,7 +1577,8 @@
       }
     ],
     "spriteType": "Ghost",
-    "sourceUrl": "https://fortnite.gg/sprites/18-gummy-ghost-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/18-gummy-ghost-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "19",
@@ -774,7 +1599,8 @@
       }
     ],
     "spriteType": "Ghost",
-    "sourceUrl": "https://fortnite.gg/sprites/19-galaxy-ghost-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/19-galaxy-ghost-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "48",
@@ -795,7 +1621,8 @@
       }
     ],
     "spriteType": "Ghost",
-    "sourceUrl": "https://fortnite.gg/sprites/48-holofoil-ghost-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/48-holofoil-ghost-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "21",
@@ -816,7 +1643,8 @@
       }
     ],
     "spriteType": "Dream",
-    "sourceUrl": "https://fortnite.gg/sprites/21-dream-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/21-dream-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "99",
@@ -837,7 +1665,8 @@
       }
     ],
     "spriteType": "Dream",
-    "sourceUrl": "https://fortnite.gg/sprites/99-cube-dream-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/99-cube-dream-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "24",
@@ -858,7 +1687,8 @@
       }
     ],
     "spriteType": "Dream",
-    "sourceUrl": "https://fortnite.gg/sprites/24-gold-dream-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/24-gold-dream-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "22",
@@ -879,7 +1709,8 @@
       }
     ],
     "spriteType": "Dream",
-    "sourceUrl": "https://fortnite.gg/sprites/22-gummy-dream-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/22-gummy-dream-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "23",
@@ -900,7 +1731,8 @@
       }
     ],
     "spriteType": "Dream",
-    "sourceUrl": "https://fortnite.gg/sprites/23-galaxy-dream-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/23-galaxy-dream-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "37",
@@ -921,7 +1753,8 @@
       }
     ],
     "spriteType": "Demon",
-    "sourceUrl": "https://fortnite.gg/sprites/37-demon-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/37-demon-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "40",
@@ -942,7 +1775,8 @@
       }
     ],
     "spriteType": "Demon",
-    "sourceUrl": "https://fortnite.gg/sprites/40-gold-demon-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/40-gold-demon-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "38",
@@ -963,7 +1797,8 @@
       }
     ],
     "spriteType": "Demon",
-    "sourceUrl": "https://fortnite.gg/sprites/38-gummy-demon-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/38-gummy-demon-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "39",
@@ -984,7 +1819,8 @@
       }
     ],
     "spriteType": "Demon",
-    "sourceUrl": "https://fortnite.gg/sprites/39-galaxy-demon-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/39-galaxy-demon-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "47",
@@ -1005,7 +1841,8 @@
       }
     ],
     "spriteType": "Demon",
-    "sourceUrl": "https://fortnite.gg/sprites/47-gem-demon-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/47-gem-demon-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "25",
@@ -1026,7 +1863,8 @@
       }
     ],
     "spriteType": "Punk",
-    "sourceUrl": "https://fortnite.gg/sprites/25-punk-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/25-punk-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "106",
@@ -1047,7 +1885,8 @@
       }
     ],
     "spriteType": "Punk",
-    "sourceUrl": "https://fortnite.gg/sprites/106-cube-punk-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/106-cube-punk-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "28",
@@ -1068,7 +1907,8 @@
       }
     ],
     "spriteType": "Punk",
-    "sourceUrl": "https://fortnite.gg/sprites/28-gold-punk-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/28-gold-punk-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "26",
@@ -1089,7 +1929,8 @@
       }
     ],
     "spriteType": "Punk",
-    "sourceUrl": "https://fortnite.gg/sprites/26-gummy-punk-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/26-gummy-punk-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "27",
@@ -1110,7 +1951,8 @@
       }
     ],
     "spriteType": "Punk",
-    "sourceUrl": "https://fortnite.gg/sprites/27-galaxy-punk-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/27-galaxy-punk-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "29",
@@ -1131,7 +1973,8 @@
       }
     ],
     "spriteType": "King",
-    "sourceUrl": "https://fortnite.gg/sprites/29-king-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/29-king-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "32",
@@ -1152,7 +1995,8 @@
       }
     ],
     "spriteType": "King",
-    "sourceUrl": "https://fortnite.gg/sprites/32-gold-king-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/32-gold-king-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "30",
@@ -1173,7 +2017,8 @@
       }
     ],
     "spriteType": "King",
-    "sourceUrl": "https://fortnite.gg/sprites/30-gummy-king-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/30-gummy-king-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "31",
@@ -1194,7 +2039,8 @@
       }
     ],
     "spriteType": "King",
-    "sourceUrl": "https://fortnite.gg/sprites/31-galaxy-king-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/31-galaxy-king-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "73",
@@ -1215,7 +2061,8 @@
       }
     ],
     "spriteType": "King",
-    "sourceUrl": "https://fortnite.gg/sprites/73-holofoil-king-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/73-holofoil-king-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "149",
@@ -1236,7 +2083,8 @@
       }
     ],
     "spriteType": "Vini Jr.",
-    "sourceUrl": "https://fortnite.gg/sprites/149-vini-jr-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/149-vini-jr-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "41",
@@ -1257,7 +2105,8 @@
       }
     ],
     "spriteType": "Burnt Peanut",
-    "sourceUrl": "https://fortnite.gg/sprites/41-burnt-peanut"
+    "sourceUrl": "https://fortnite.gg/sprites/41-burnt-peanut",
+    "releaseStatus": "archived"
   },
   {
     "id": "33",
@@ -1278,7 +2127,8 @@
       }
     ],
     "spriteType": "Zero Point",
-    "sourceUrl": "https://fortnite.gg/sprites/33-zero-point-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/33-zero-point-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "112",
@@ -1299,7 +2149,8 @@
       }
     ],
     "spriteType": "Zero Point",
-    "sourceUrl": "https://fortnite.gg/sprites/112-cube-zero-point-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/112-cube-zero-point-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "36",
@@ -1320,7 +2171,8 @@
       }
     ],
     "spriteType": "Zero Point",
-    "sourceUrl": "https://fortnite.gg/sprites/36-gold-zero-point-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/36-gold-zero-point-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "113",
@@ -1341,7 +2193,8 @@
       }
     ],
     "spriteType": "Zero Point",
-    "sourceUrl": "https://fortnite.gg/sprites/113-quack-zero-point-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/113-quack-zero-point-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "34",
@@ -1362,7 +2215,8 @@
       }
     ],
     "spriteType": "Zero Point",
-    "sourceUrl": "https://fortnite.gg/sprites/34-gummy-zero-point-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/34-gummy-zero-point-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "35",
@@ -1383,7 +2237,8 @@
       }
     ],
     "spriteType": "Zero Point",
-    "sourceUrl": "https://fortnite.gg/sprites/35-galaxy-zero-point-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/35-galaxy-zero-point-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "82",
@@ -1404,7 +2259,8 @@
       }
     ],
     "spriteType": "Zero Point",
-    "sourceUrl": "https://fortnite.gg/sprites/82-gem-zero-point-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/82-gem-zero-point-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "111",
@@ -1425,7 +2281,8 @@
       }
     ],
     "spriteType": "Zero Point",
-    "sourceUrl": "https://fortnite.gg/sprites/111-holofoil-zero-point-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/111-holofoil-zero-point-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "58",
@@ -1446,7 +2303,8 @@
       }
     ],
     "spriteType": "Fishy",
-    "sourceUrl": "https://fortnite.gg/sprites/58-fishy-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/58-fishy-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "116",
@@ -1467,7 +2325,8 @@
       }
     ],
     "spriteType": "Fishy",
-    "sourceUrl": "https://fortnite.gg/sprites/116-cube-fishy-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/116-cube-fishy-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "61",
@@ -1488,7 +2347,8 @@
       }
     ],
     "spriteType": "Fishy",
-    "sourceUrl": "https://fortnite.gg/sprites/61-gold-fishy-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/61-gold-fishy-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "59",
@@ -1509,7 +2369,8 @@
       }
     ],
     "spriteType": "Fishy",
-    "sourceUrl": "https://fortnite.gg/sprites/59-gummy-fishy-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/59-gummy-fishy-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "60",
@@ -1530,7 +2391,8 @@
       }
     ],
     "spriteType": "Fishy",
-    "sourceUrl": "https://fortnite.gg/sprites/60-galaxy-fishy-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/60-galaxy-fishy-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "62",
@@ -1551,7 +2413,8 @@
       }
     ],
     "spriteType": "Striker",
-    "sourceUrl": "https://fortnite.gg/sprites/62-striker-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/62-striker-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "65",
@@ -1572,7 +2435,8 @@
       }
     ],
     "spriteType": "Striker",
-    "sourceUrl": "https://fortnite.gg/sprites/65-gold-striker-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/65-gold-striker-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "63",
@@ -1593,7 +2457,8 @@
       }
     ],
     "spriteType": "Striker",
-    "sourceUrl": "https://fortnite.gg/sprites/63-gummy-striker-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/63-gummy-striker-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "64",
@@ -1614,7 +2479,8 @@
       }
     ],
     "spriteType": "Striker",
-    "sourceUrl": "https://fortnite.gg/sprites/64-galaxy-striker-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/64-galaxy-striker-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "66",
@@ -1635,7 +2501,8 @@
       }
     ],
     "spriteType": "Striker",
-    "sourceUrl": "https://fortnite.gg/sprites/66-holofoil-striker-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/66-holofoil-striker-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "67",
@@ -1656,7 +2523,8 @@
       }
     ],
     "spriteType": "Aura",
-    "sourceUrl": "https://fortnite.gg/sprites/67-aura-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/67-aura-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "71",
@@ -1677,7 +2545,8 @@
       }
     ],
     "spriteType": "Aura",
-    "sourceUrl": "https://fortnite.gg/sprites/71-gold-aura-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/71-gold-aura-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "68",
@@ -1698,7 +2567,8 @@
       }
     ],
     "spriteType": "Aura",
-    "sourceUrl": "https://fortnite.gg/sprites/68-gummy-aura-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/68-gummy-aura-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "69",
@@ -1719,7 +2589,8 @@
       }
     ],
     "spriteType": "Aura",
-    "sourceUrl": "https://fortnite.gg/sprites/69-galaxy-aura-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/69-galaxy-aura-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "70",
@@ -1740,7 +2611,8 @@
       }
     ],
     "spriteType": "Aura",
-    "sourceUrl": "https://fortnite.gg/sprites/70-gem-aura-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/70-gem-aura-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "49",
@@ -1761,7 +2633,8 @@
       }
     ],
     "spriteType": "Boss",
-    "sourceUrl": "https://fortnite.gg/sprites/49-boss-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/49-boss-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "126",
@@ -1782,7 +2655,8 @@
       }
     ],
     "spriteType": "Boss",
-    "sourceUrl": "https://fortnite.gg/sprites/126-cube-boss-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/126-cube-boss-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "50",
@@ -1803,7 +2677,8 @@
       }
     ],
     "spriteType": "Boss",
-    "sourceUrl": "https://fortnite.gg/sprites/50-gold-boss-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/50-gold-boss-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "51",
@@ -1824,7 +2699,8 @@
       }
     ],
     "spriteType": "Boss",
-    "sourceUrl": "https://fortnite.gg/sprites/51-gummy-boss-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/51-gummy-boss-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "52",
@@ -1845,7 +2721,8 @@
       }
     ],
     "spriteType": "Boss",
-    "sourceUrl": "https://fortnite.gg/sprites/52-galaxy-boss-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/52-galaxy-boss-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "78",
@@ -1866,7 +2743,8 @@
       }
     ],
     "spriteType": "Grim",
-    "sourceUrl": "https://fortnite.gg/sprites/78-grim-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/78-grim-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "130",
@@ -1887,7 +2765,8 @@
       }
     ],
     "spriteType": "Grim",
-    "sourceUrl": "https://fortnite.gg/sprites/130-cube-grim-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/130-cube-grim-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "81",
@@ -1908,7 +2787,8 @@
       }
     ],
     "spriteType": "Grim",
-    "sourceUrl": "https://fortnite.gg/sprites/81-gold-grim-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/81-gold-grim-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "79",
@@ -1929,7 +2809,8 @@
       }
     ],
     "spriteType": "Grim",
-    "sourceUrl": "https://fortnite.gg/sprites/79-gummy-grim-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/79-gummy-grim-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "80",
@@ -1950,7 +2831,8 @@
       }
     ],
     "spriteType": "Grim",
-    "sourceUrl": "https://fortnite.gg/sprites/80-galaxy-grim-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/80-galaxy-grim-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "128",
@@ -1971,7 +2853,8 @@
       }
     ],
     "spriteType": "Grim",
-    "sourceUrl": "https://fortnite.gg/sprites/128-gem-grim-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/128-gem-grim-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "129",
@@ -1992,7 +2875,8 @@
       }
     ],
     "spriteType": "Grim",
-    "sourceUrl": "https://fortnite.gg/sprites/129-holofoil-grim-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/129-holofoil-grim-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "74",
@@ -2013,7 +2897,8 @@
       }
     ],
     "spriteType": "Air",
-    "sourceUrl": "https://fortnite.gg/sprites/74-air-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/74-air-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "42",
@@ -2034,7 +2919,8 @@
       }
     ],
     "spriteType": "Air",
-    "sourceUrl": "https://fortnite.gg/sprites/42-gold-air-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/42-gold-air-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "72",
@@ -2055,7 +2941,8 @@
       }
     ],
     "spriteType": "Air",
-    "sourceUrl": "https://fortnite.gg/sprites/72-gummy-air-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/72-gummy-air-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "75",
@@ -2076,7 +2963,8 @@
       }
     ],
     "spriteType": "Air",
-    "sourceUrl": "https://fortnite.gg/sprites/75-galaxy-air-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/75-galaxy-air-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "77",
@@ -2097,7 +2985,8 @@
       }
     ],
     "spriteType": "Air",
-    "sourceUrl": "https://fortnite.gg/sprites/77-holofoil-air-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/77-holofoil-air-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "53",
@@ -2118,7 +3007,8 @@
       }
     ],
     "spriteType": "Seven",
-    "sourceUrl": "https://fortnite.gg/sprites/53-seven-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/53-seven-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "56",
@@ -2139,7 +3029,8 @@
       }
     ],
     "spriteType": "Seven",
-    "sourceUrl": "https://fortnite.gg/sprites/56-gold-seven-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/56-gold-seven-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "54",
@@ -2160,7 +3051,8 @@
       }
     ],
     "spriteType": "Seven",
-    "sourceUrl": "https://fortnite.gg/sprites/54-gummy-seven-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/54-gummy-seven-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "55",
@@ -2181,7 +3073,8 @@
       }
     ],
     "spriteType": "Seven",
-    "sourceUrl": "https://fortnite.gg/sprites/55-galaxy-seven-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/55-galaxy-seven-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "57",
@@ -2202,7 +3095,8 @@
       }
     ],
     "spriteType": "Seven",
-    "sourceUrl": "https://fortnite.gg/sprites/57-holofoil-seven-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/57-holofoil-seven-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "150",
@@ -2223,7 +3117,8 @@
       }
     ],
     "spriteType": "Ironmouse",
-    "sourceUrl": "https://fortnite.gg/sprites/150-ironmouse-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/150-ironmouse-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "148",
@@ -2243,7 +3138,8 @@
       }
     ],
     "spriteType": "Pollo",
-    "sourceUrl": "https://fortnite.gg/sprites/148-pollo-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/148-pollo-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "151",
@@ -2264,7 +3160,8 @@
       }
     ],
     "spriteType": "Llama",
-    "sourceUrl": "https://fortnite.gg/sprites/151-llama-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/151-llama-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "152",
@@ -2285,7 +3182,8 @@
       }
     ],
     "spriteType": "Llama",
-    "sourceUrl": "https://fortnite.gg/sprites/152-gold-llama-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/152-gold-llama-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "153",
@@ -2306,7 +3204,8 @@
       }
     ],
     "spriteType": "Llama",
-    "sourceUrl": "https://fortnite.gg/sprites/153-gummy-llama-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/153-gummy-llama-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "154",
@@ -2327,7 +3226,8 @@
       }
     ],
     "spriteType": "Llama",
-    "sourceUrl": "https://fortnite.gg/sprites/154-galaxy-llama-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/154-galaxy-llama-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "155",
@@ -2348,13 +3248,14 @@
       }
     ],
     "spriteType": "Llama",
-    "sourceUrl": "https://fortnite.gg/sprites/155-gem-llama-sprite"
+    "sourceUrl": "https://fortnite.gg/sprites/155-gem-llama-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "156",
-    "slug": "peely-sprite",
-    "name": "Peely",
-    "href": "/sprites/156-peely-sprite",
+    "slug": "peeky-peely-sprite",
+    "name": "Peeky Peely",
+    "href": "/sprites/156-peeky-peely-sprite",
     "rarity": "legendary",
     "variant": "base",
     "percentage": 4.62,
@@ -2368,14 +3269,15 @@
         "chance": "4.62%"
       }
     ],
-    "spriteType": "Peely",
-    "sourceUrl": "https://fortnite.gg/sprites/156-peely-sprite"
+    "spriteType": "Peeky Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/156-peeky-peely-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "157",
-    "slug": "gold-peely-sprite",
-    "name": "Gold Peely",
-    "href": "/sprites/157-gold-peely-sprite",
+    "slug": "gold-peeky-peely-sprite",
+    "name": "Gold Peeky Peely",
+    "href": "/sprites/157-gold-peeky-peely-sprite",
     "rarity": "special",
     "variant": "gold",
     "percentage": 0.43,
@@ -2389,14 +3291,15 @@
         "chance": "0.43%"
       }
     ],
-    "spriteType": "Peely",
-    "sourceUrl": "https://fortnite.gg/sprites/157-gold-peely-sprite"
+    "spriteType": "Peeky Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/157-gold-peeky-peely-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "158",
-    "slug": "gummy-peely-sprite",
-    "name": "Gummy Peely",
-    "href": "/sprites/158-gummy-peely-sprite",
+    "slug": "gummy-peeky-peely-sprite",
+    "name": "Gummy Peeky Peely",
+    "href": "/sprites/158-gummy-peeky-peely-sprite",
     "rarity": "special",
     "variant": "candy",
     "percentage": 0.26,
@@ -2410,14 +3313,15 @@
         "chance": "0.26%"
       }
     ],
-    "spriteType": "Peely",
-    "sourceUrl": "https://fortnite.gg/sprites/158-gummy-peely-sprite"
+    "spriteType": "Peeky Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/158-gummy-peeky-peely-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "159",
-    "slug": "galaxy-peely-sprite",
-    "name": "Galaxy Peely",
-    "href": "/sprites/159-galaxy-peely-sprite",
+    "slug": "galaxy-peeky-peely-sprite",
+    "name": "Galaxy Peeky Peely",
+    "href": "/sprites/159-galaxy-peeky-peely-sprite",
     "rarity": "special",
     "variant": "galaxy",
     "percentage": 0.17,
@@ -2431,14 +3335,15 @@
         "chance": "0.17%"
       }
     ],
-    "spriteType": "Peely",
-    "sourceUrl": "https://fortnite.gg/sprites/159-galaxy-peely-sprite"
+    "spriteType": "Peeky Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/159-galaxy-peeky-peely-sprite",
+    "releaseStatus": "archived"
   },
   {
     "id": "160",
-    "slug": "holofoil-peely-sprite",
-    "name": "Holofoil Peely",
-    "href": "/sprites/160-holofoil-peely-sprite",
+    "slug": "holofoil-peeky-peely-sprite",
+    "name": "Holofoil Peeky Peely",
+    "href": "/sprites/160-holofoil-peeky-peely-sprite",
     "rarity": "special",
     "variant": "holofoil",
     "percentage": 0.85,
@@ -2452,7 +3357,8 @@
         "chance": "0.85%"
       }
     ],
-    "spriteType": "Peely",
-    "sourceUrl": "https://fortnite.gg/sprites/160-holofoil-peely-sprite"
+    "spriteType": "Peeky Peely",
+    "sourceUrl": "https://fortnite.gg/sprites/160-holofoil-peeky-peely-sprite",
+    "releaseStatus": "archived"
   }
 ]

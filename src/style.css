@@ -157,6 +157,8 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .card-heading a:hover h2, .list-name a:hover h2 { color: #000; }
 .rarity-badge, .plain-badge { display: inline-flex; min-height: 21px; align-items: center; padding-inline: 7px; border-radius: 999px; font-size: .58rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
 .plain-badge { background: var(--surface); color: var(--muted); }
+.card-badges { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px; }
+.new-badge { min-height: 21px; border: 0; background: #def7ec; color: #08745c; font-size: .58rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }
 .status-row { display: flex; flex-wrap: wrap; gap: 4px; }
 .status-badge { display: flex; min-height: 38px; flex: 1; align-items: center; justify-content: center; gap: 5px; padding-inline: 6px; border: 0; border-radius: 6px; background: transparent; color: var(--faint); cursor: pointer; font-size: .66rem; font-weight: 550; white-space: nowrap; }
 .status-badge:hover { background: var(--surface-hover); color: var(--muted); }

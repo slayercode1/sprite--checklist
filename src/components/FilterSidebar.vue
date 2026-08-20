@@ -33,6 +33,8 @@ const emit = defineEmits<{
 }>()
 
 const statusOptions = [
+  { value: 'new', label: 'Nouveaux' },
+  { value: 'archived', label: 'Archivés' },
   { value: 'owned', label: 'Possédés' },
   { value: 'unowned', label: 'Non possédés' },
   { value: 'mastered', label: 'Maîtrisés' },
@@ -40,7 +42,7 @@ const statusOptions = [
 ] satisfies { value: StatusFilter; label: string }[]
 
 const oppositeStatus: Partial<Record<StatusFilter, StatusFilter>> = {
-  owned: 'unowned', unowned: 'owned', mastered: 'unmastered', unmastered: 'mastered',
+  new: 'archived', archived: 'new', owned: 'unowned', unowned: 'owned', mastered: 'unmastered', unmastered: 'mastered',
 }
 
 const sortOptions = [

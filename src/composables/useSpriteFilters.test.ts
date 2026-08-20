@@ -17,6 +17,17 @@ describe('filtres', () => {
     filters.query.value = 'fantome'
     expect(filters.filteredSprites.value[0]?.id).toBe('3')
   })
+  it('affiche toujours les nouveaux avant les disponibles puis les archivés', () => {
+    const catalog = computed(() => [
+      { ...sprites.value[0]!, releaseStatus: 'archived' as const },
+      { ...sprites.value[1]!, releaseStatus: 'new' as const },
+      { id: '3', slug: 'current', name: 'Actuel', image: '', sourceUrl: '', releaseStatus: 'available' as const },
+    ])
+    const filters = useSpriteFilters(catalog, () => false, () => false)
+    expect(filters.filteredSprites.value.map((item) => item.id)).toEqual(['2', '3', '1'])
+    filters.statuses.value = ['new']
+    expect(filters.filteredSprites.value.map((item) => item.id)).toEqual(['2'])
+  })
   it('restaure les filtres après un rechargement', async () => {
     const firstVisit = useSpriteFilters(sprites, () => false, () => false)
     firstVisit.query.value = 'Batman'
